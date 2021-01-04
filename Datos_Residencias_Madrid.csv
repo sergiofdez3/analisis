@@ -1,425 +1,425 @@
-Nombre;Dirección;Código Postal;Municipio;Teléfono;Titularidad;Latitud;Longitud;Número plazas;Número casos confirmados;Número fallecidos;Porcentaje casos confirmados(%);Porcentaje fallecidos(%)
-Residencia de personas mayores Colmenar Viejo;Avenida de los Remedios 28;28770;Colmenar Viejo;91 847 40 00;Pública autonómica;40,675093;-3,76996;393;200;173;51;44
-Residencia Santiago Rusiñol;Plaza Doctor González Bueno 16;28300;Aranjuez;91 891 14 40;Pública autonómica;40,036859;-3,592327;464;398;140;86;30
-Residencia Las Rozas - Reina Sofía;Carretera de A Coruña Km. 21.5;28232;Rozas de Madrid (Las);91 637 40 12;Pública autonómica;40,517179;-3,885358;504;303;102;60;20
-Riosalud;Camino Real 2 - Urb. Molino de la Hoz;28232;Rozas de Madrid (Las);91 630 20 13;Privada;40,531967;-3,94341;300;261;86;87;29
-Ballesol Alcalá de Henares;Calle Octavio Paz 21;28806;Alcalá de Henares;91 802 92 12 / 91 830 10 09;Privada;40,50207;-3,367425;260;125;84;48;32
-Residencia de personas mayores Arganda del Rey;Avenida del Instituto s/n;28500;Arganda del Rey;91 871 33 00;Pública autonómica;40,2877;-3,43817;449;161;78;36;17
-Residencia Los Nogales Pontones;Calle Cobo de Segovia 4;28005;Madrid;91 364 43 48;Privada;40,406924;-3,719561;260;218;77;84;30
-Los Nogales Santa Eugenia;Calle Zazúar 15;28031;Madrid;91 305 29 90;Privada;40,381994;-3,607401;286;190;77;66;27
-DomusVi Real Deleite;Paseo del Deleite 3;28300;Aranjuez;91 891 02 36;Privada;40,025948;-3,610572;268;170;68;63;25
-Ballesol Príncipe de Vergara;Calle Cartagena 133;28002;Madrid;91 411 99 30;Privada;40,443538;-3,676885;302;209;65;69;22
-Orpea San Blas;Calle Zurich 16;28022;Madrid;91 775 99 91;Privada;40,422658;-3,603967;180;142;63;79;35
-GERIASA Brunete;Calle Eras 39;28690;Brunete;91 815 83 00;Privada;40,403493;-4,003612;248;149;61;60;25
-Centro Residencial Sanitas Colmenar Viejo;Paseo Magdalena 2;28770;Colmenar Viejo;91 848 42 73;Privada;40,653031;-3,772931;202;45;60;22;30
-Residencia de personas mayores Parque Coímbra;Avenida de los Sauces 55;28935;Móstoles;91 646 18 93;Pública autonómica;40,3082;-3,93185;220;129;60;59;27
-Sanitas Residencial La Moraleja;Avenida La Vega 20;28108;Alcobendas;91 490 37 70;Privada;40,534613;-3,633549;126;70;59;56;47
-Ballesol Pasillo Verde;Calle Amaltea 25;28045;Madrid;91 506 22 70;Privada;40,396975;-3,685883;278;149;59;54;21
-Ecoplar Aravaca;Calle Blanca de Castilla 8;28023;Madrid;91 740 05 66;Privada;40,464743;-3,783695;200;148;58;74;29
-Orpea Pinto II;Camino de San Martín de la Vega 5;28320;Pinto;91 692 69 60;Privada;40,241046;-3,69061;144;78;56;54;39
-Residencia de personas mayores Villaviciosa de Odón;Carretera de San Martín de Valdeiglesias Km. 11.200;28670;Villaviciosa de Odón;91 647 73 18 / 91 616 73 18;Pública autonómica;40,3692;-3,93892;322;113;56;35;17
-DomusVi Leganés;Calle César García Contonente 6;28914;Leganés;91 648 42 53;Privada;40,321169;-3,784687;180;166;55;92;31
-Centro Residencial Sanitas El Escorial;Calle Nueve 9;28280;Escorial (El);91 853 35 33;Privada;40,603854;-4,052666;169;151;54;89;32
-Centro Asistencial GEROINNOVA MIRAMADRID;Calle Gaspar de Morales 1;28860;Paracuellos de Jarama;91 230 42 00;Privada;40,502456;-3,513028;170;131;53;77;31
-Residencia Los Nogales Puerta de Hierro;Calle César Manrique 11;28035;Madrid;91 789 20 09;Privada;40,474177;-3,721053;220;137;52;62;24
-Residencia de 3ª edad Las Matas;Calle Monte 11 - Urb. Las Matas;28290;Rozas de Madrid (Las);91 630 10 29;Privada;40,560842;-3,897475;177;158;50;89;28
-Nuestra Señora de Butarque;Calle Delco 10 - Ciudad del Automóvil;28914;Leganés;91 693 85 13;Privada;40,318524;-3,759414;180;167;49;93;27
-Residencia de mayores de Manoteras;Calle Oña 3;28050;Madrid;91 766 52 22;Pública autonómica;40,489006;-3,668342;300;163;49;54;16
-Residencia Valle de la Oliva;Calle Manuel de Falla 35;28222;Majadahonda;91 679 99 63;Pública local;40,452309;-3,876877;130;90;48;69;37
-Residencia de personas mayores Villa del Prado;Paseo de la Estación 2;28630;Villa del Prado;91 862 22 01;Pública autonómica;40,274219;-4,300819;120;25;48;21;40
-Residencia de personas mayores de Vallecas;Calle Benjamín Palencia 25;28038;Madrid;91 779 14 40;Pública autonómica;40,394523;-3,647456;173;128;47;74;27
-Residencia Ecoplar Griñón-Serranillos;Calle Retama 2;28979;Serranillos del Valle;91 813 81 38;Privada;40,20901;-3,870049;120;111;47;93;39
-Residencia Militar de Acción Social de Atención a Mayores Virgen del Carmen;Camino de los Ingenieros 2;28047;Madrid;91 364 60 00;Pública estatal;40,387745;-3,745867;160;112;46;70;29
-Residencia de 3ª edad Magán;Calle Miguel Delibes s/n;28991;Torrejón de la Calzada;91 810 61 15;Privada;40,1937;-3,80519;140;112;46;80;33
-Residencia asistida San Camilo;Calle Sector Escultores 39;28760;Tres Cantos;91 803 40 00;Privada sin fin de lucro;40,615365;-3,712755;172;93;46;54;27
-Sanitas Residencial La Florida;Calle Valle de Toranzo 3 - 5;28023;Madrid;91 740 03 86;Privada;40,468003;-3,795599;130;95;44;73;34
-Orpea La Moraleja;Carretera de Burgos Km. 14 - Urb. Cuesta Blanca;28108;Alcobendas;91 650 89 10;Privada;40,5199;-3,65364;132;105;43;80;33
-Centro Residencial Sanitas Carabanchel;Calle Antonia Rodríguez Sacristán 10;28044;Madrid;91 508 11 10;Privada;40,37275;-3,74463;224;123;43;55;19
-Pisos tutelados para mayores;Avenida de los Fresnos 11;28850;Torrejón de Ardoz;91 343 68 02;Pública autonómica;40,445189;-3,47119;240;147;43;61;18
-AMAVIR Arganzuela;Calle Embajadores 211;28045;Madrid;91 506 23 56;Privada;40,386048;-3,689044;180;97;42;54;23
-Orpea Collado Villalba;Avenida de Moralzarzal s/n;28400;Collado Villalba;91 849 78 60;Privada;40,644209;-3,995874;181;146;38;81;21
-Residencia Fátima;Calle Procesiones 44 - 48;28260;Galapagar;91 858 42 40 / 91 858 44 36;Privada;40,574217;-4,00327;96;28;37;29;39
-Caser Residencial Santa Hortensia;Calle Santa Hortensia 46;28002;Madrid;91 510 68 10;Privada;40,444472;-3,663072;184;140;37;76;20
-Alba San Lorenzo;Calle Mariano Sainz 1;28200;San Lorenzo de El Escorial;91 890 08 83;Privada;40,5941;-4,14307;182;136;37;75;20
-Ballesol Alcobendas;Calle Ramón y Cajal 1;28100;Alcobendas;91 662 50 87;Privada;40,540987;-3,649774;154;107;36;69;23
-Residencia Montehermoso Camorritos;Carretera de Camorritos s/n;28470;Cercedilla;91 852 25 50;Privada;40,756571;-4,052788;159;112;36;70;23
-Residencia para mayores Mirasierra;Calle Portera del Cura 1;28034;Madrid;91 734 14 10 / 91 734 16 26 / 91 734 08 76;Pública autonómica;40,4908;-3,71436;220;148;36;67;16
-Residencia Santísima Virgen y San Celedonio;Calle Condes de Val 11;28036;Madrid;91 457 19 60;Privada;40,456673;-3,683326;164;130;36;79;22
-Centro Tercera Edad San Luis Gonzaga;Calle Mar Egeo 51;28221;Majadahonda;91 634 00 76;Privada;40,462636;-3,86466;202;157;35;78;17
-DomusVi Valdemoro;Paseo Juncarejo 2 - Urb. El Restón;28341;Valdemoro;91 808 59 80;Privada;40,1852;-3,67761;180;82;35;46;19
-Casaverde Navalcarnero;Calle José María López Malla 3;28600;Navalcarnero;91 811 24 93;Privada;40,286425;-4,006576;112;78;34;70;30
-Residencia Los Nogales - Imperial;Calle Santa María Real de Nieva s/n;28005;Madrid;91 364 82 55;Privada;40,405522;-3,716593;252;74;33;29;13
-Albertia Moratalaz;Calle Hacienda de Pavones 261;28030;Madrid;91 324 68 00;Privada;40,399677;-3,630679;190;129;33;68;17
-Residencia de personas mayores Francisco de Vitoria;Calle Villamalea 1;28805;Alcalá de Henares;91 889 30 50;Pública autonómica;40,508024;-3,357504;513;137;32;27;6
-Residencia Gastón Baquero;Calle Francisco Chico Mendes 8;28108;Alcobendas;91 661 71 91 / 91 661 28 76;Pública autonómica;40,522077;-3,652882;201;75;31;37;15
-Alba 2 Residencia Geriátrica;Calle Viñuelas 2;28863;Cobeña;91 620 87 54;Privada;40,569196;-3,498821;128;74;31;58;24
-Residencia Nuestra Señora del Carmen;Carretera Cantoblanco 3;28049;Madrid;91 734 34 50;Pública autonómica;40,539094;-3,694235;422;92;31;22;7
-Orpea Torrelodones;Avenida Rosario Manzaneque 19;28250;Torrelodones;91 856 90 90;Privada;40,583964;-3,953036;156;65;31;42;20
-Residencia de personas mayores Alcorcón;Avenida Esteban Márquez 2;28922;Alcorcón;91 644 13 00 / 91 682 42 47;Pública autonómica;40,340447;-3,842068;218;84;30;39;14
-Residencia para mayores Parque los Frailes;Calle los Frailes 12;28914;Leganés;91 693 40 00;Pública autonómica;40,317781;-3,772798;220;103;30;47;14
-Residencia Santa Matilde;Calle Santa Matilde 7;28039;Madrid;91 450 82 82;Privada;40,449996;-3,70812;77;61;30;79;39
-Residencia de ancianos Virgen de la Antigua - Fundación Mac-Crohon;Calle Asilo 2;28530;Morata de Tajuña;91 873 00 54;Privada;40,227415;-3,43646;98;70;30;71;31
-Residencia Rafael Alberti;Calle Pirineos 55;28040;Madrid;91 144 06 34;Privada;40,453887;-3,719232;100;74;29;74;29
-Residencia El Encinar;Calle Constitución de Cádiz 5;28914;Leganés;91 694 41 61;Pública autonómica;40,321911;-3,762064;132;76;28;58;21
-Residencia Monte Hermoso;Calle Doctor Blanco Nájera 6;28011;Madrid;91 526 75 85;Privada;40,409007;-3,743019;130;114;28;88;22
-AMAVIR Valdebernardo;Calle Ladera de los Almendros 44;28032;Madrid;91 301 66 60;Privada;40,396413;-3,626149;180;75;28;42;16
-AMAVIR Puente de Vallecas;Calle Baltasar Santos 2;28038;Madrid;91 328 70 70;Privada;40,402346;-3,658811;180;88;28;49;16
-Orpea Las Rozas;Calle Clara Campoamor 2;28232;Rozas de Madrid (Las);91 710 59 37;Privada;40,505346;-3,879865;180;93;28;52;16
-Centro San Juan de Dios;Avenida San Juan de Dios 1;28350;Ciempozuelos;91 893 00 01;Privada sin fin de lucro;40,160069;-3,61456;234;76;27;32;12
-Orpea Alcobendas;Avenida Miguel de Cervantes 3;28100;Alcobendas;91 490 06 78;Privada;40,549784;-3,650733;180;56;26;31;14
-Residencia de mayores Madrid - Peñuelas;Calle Arganda 9 - 11;28005;Madrid;91 506 05 96;Pública autonómica;40,400993;-3,706638;220;167;26;76;12
-Residencia Montserrat Caballé;Calle Bahía de Santa Pola 2;28042;Madrid;91 748 15 52;Privada sin fin de lucro;40,466261;-3,590649;136;70;26;51;19
-Vitalia Parla;Calle Fernando III El Santo 17;28982;Parla;91 283 01 90;Privada;40,23244;-3,767879;165;97;26;59;16
-Residencia de 3ª edad San Juan de Dios;Carretera de Navalcarnero - Chinchón Km. 5;28607;Álamo (El);91 812 14 14;Privada;40,2374;-3,99384;303;180;25;59;8
-AMAVIR Coslada;Avenida España 130;28822;Coslada;91 673 30 65;Privada;40,420903;-3,553158;180;160;25;89;14
-Residencia de personas mayores Alzheimer Getafe;Avenida Francisco Fernández Ordóñez 2;28903;Getafe;91 665 25 10;Pública autonómica;40,31708;-3,717148;70;62;25;89;36
-Orpea Madrid Sanchinarro;Calle Padres Dominicos 2;28050;Madrid;91 750 21 38;Privada;40,50194;-3,656316;180;72;25;40;14
-AMAVIR Torrejón de Ardoz;Calle Francia 6;28850;Torrejón de Ardoz;91 627 77 00;Privada;40,457387;-3,451723;180;93;25;52;14
-Residencia de ancianos San Juan Bautista;Carretera Comarcal 507 Km. 22 - Finca El Rincón;28620;Aldea del Fresno;91 862 10 45 / 91 864 90 01;Privada;40,305789;-4,253379;84;65;24;77;29
-AMAVIR Cenicientos;Calle San Sebastián 13;28650;Cenicientos;91 860 09 00;Privada;40,259689;-4,461493;82;67;24;82;29
-Sanitas Residencial Guadarrama;Paseo de la Alameda 8;28440;Guadarrama;91 854 38 93;Privada;40,675645;-4,094051;170;50;24;29;14
-DomusVi Albufera;Calle Sierra Alcubierre 8;28053;Madrid;91 757 05 10;Privada;40,39179;-3,667929;143;60;24;42;17
-DomusVi Ciudad de Móstoles;Calle Río Segura 29;28935;Móstoles;91 648 01 46;Privada;40,310454;-3,87891;180;95;24;53;13
-Residencia de 3ª edad La Asunción;Paseo de la Estación 18;28600;Navalcarnero;91 811 12 12;Privada;40,293394;-4,010097;78;57;24;73;31
-Residencia de personas mayores San Fernando de Henares;Calle Ventura de Argumosa 4;28830;San Fernando de Henares;91 674 62 00;Pública autonómica;40,427991;-3,531295;120;83;24;69;20
-Casablanca Valdemoro;Calle Aragón 2;28341;Valdemoro;91 801 83 60;Privada;40,1862;-3,68675;160;123;24;77;15
-AMAVIR Alcorcón;Calle Gabriela Mistral 4;28922;Alcorcón;91 512 72 00;Privada;40,335797;-3,828116;180;71;23;39;13
-Los Nogales Reina Victoria;Calle Juan Montalvo 20 - 22;28040;Madrid;91 534 60 00;Privada;40,447533;-3,710797;98;47;23;48;23
-Centro Residencial Sanitas Alcorcón;Avenida de Polvoranca s/n;28923;Alcorcón;91 643 71 86;Privada;40,340788;-3,815432;144;66;22;46;15
-AMAVIR Colmenar;Calle Mosquilona 65;28770;Colmenar Viejo;91 845 98 08;Privada;40,664217;-3,777631;180;100;22;56;12
-Residencia de mayores Dos de Mayo;Calle Daoiz 8;28004;Madrid;91 360 48 31;Privada;40,427099;-3,705317;60;54;22;90;37
-Residencia Manuel Herranz;Calle García Martín 25;28224;Pozuelo de Alarcón;91 352 19 45;Privada sin fin de lucro;40,448068;-3,796783;84;59;22;70;26
-Residencia municipal Nuestra Señora del Rosario;Calle Lili Álvarez 3;28342;Valdemoro;91 876 26 58;Pública local;40,19543;-3,690404;134;123;22;92;16
-Residencia Los Nogales - Pacífico;Calle Cerro de la Plata 3;28007;Madrid;91 434 19 40;Privada;40,399989;-3,674735;441;53;21;12;5
-Residencia de personas mayores San José;Calle Trévelez 1;28041;Madrid;91 317 54 67 / 91 317 54 68;Pública autonómica;40,365148;-3,702439;48;44;21;92;44
-Residencia Isla de Taray;Carretera de Morata - Perales de Tajuña Km. 3.3;28530;Morata de Tajuña;91 873 13 28;Privada sin fin de lucro;40,2309;-3,40223;214;72;21;34;10
-Residencia La Torre;Calle del Carmen 37;28530;Morata de Tajuña;91 873 01 71 / 91 873 03 64;Privada;40,225087;-3,437335;88;57;21;65;24
-Residencia Dolores Soria;Calle Joaquín Turina 2;28320;Pinto;608 81 09 70;Pública local;40,256742;-3,6989;60;15;21;25;35
-Residencia Los Cortijos;Calle Carril Antiguo 20;28609;Sevilla la Nueva;91 812 96 64;Privada;40,349122;-4,060583;57;32;21;56;37
-Residencia San José;Calle Teniente Ortiz de Zárate 56;28370;Chinchón;91 894 00 39;Privada;40,141864;-3,416616;80;51;20;64;25
-Residencia Fundación Sagrada Familia;Calle Isidro Dompablo 10;28035;Madrid;91 316 65 66;Privada;40,46405;-3,723723;46;40;20;87;43
-Orpea El Escorial;Calle Luis de Cervera Vera 1 - Urb. Las Pozas;28200;San Lorenzo de El Escorial;91 899 73 04;Privada;40,603723;-4,131542;180;44;20;24;11
-Centro de Mayores MIAL Salud;Avenida de los Pinares 2;28250;Torrelodones;91 630 85 81;Privada;40,568445;-3,895831;174;50;20;29;11
-Caser Residencial La Moraleja;Calle Salvia 133;28109;Alcobendas;91 659 73 02;Privada;40,529931;-3,63244;295;82;19;28;6
-Residencia de 3ª edad Santa Justa;Camino de Fregacedos 2;28942;Fuenlabrada;91 600 20 30;Privada;40,290436;-3,812459;54;45;19;83;35
-Los Nogales Vista Alegre;Calle Vista Alegre 4 - 6;28019;Madrid;91 472 00 20;Privada;40,389956;-3,732051;98;68;19;69;19
-Centro Clínico Geriátrico Pinar de Aravaca;Calle Camarines 2;28023;Madrid;91 307 07 07;Privada;40,461227;-3,769417;119;105;19;88;16
-Centro Alzheimer Fundación Reina Sofía;Calle Valderrebollo 5;28031;Madrid;91 385 23 00;Pública autonómica;40,372675;-3,627503;156;54;19;35;12
-Los Nogales Hortaleza;Calle Alcobendas 12;28033;Madrid;91 863 64 58;Privada;40,475764;-3,642139;365;38;19;10;5
-Casablanca Rivas;Calle Goya 21;28521;Rivas-Vaciamadrid;91 499 77 38;Privada;40,337671;-3,522267;104;64;19;62;18
-Residencia GERIATEL Rivas;Paseo de las Provincias 1;28523;Rivas-Vaciamadrid;91 192 21 35;Privada;40,375053;-3,534443;112;51;19;46;17
-Las Golondrinas;Calle Miguel de Cervantes 40;28294;Robledo de Chavela;91 899 85 41;Privada;40,520821;-4,253372;58;38;19;66;33
-Primar II Centro Geriátrico;Avenida de Madrid s/n;28160;Talamanca de Jarama;91 841 77 35;Privada;40,743533;-3,508533;277;39;19;14;7
-Ballesol Tres Cantos;Calle Panaderos s/n (Sector Oficios 41);28760;Tres Cantos;91 804 71 92;Privada;40,605339;-3,713818;180;52;19;29;11
-Orpea Santo Domingo;Callejón de las Terrazas s/n;28120;Algete;91 622 02 32;Privada;40,625652;-3,581868;150;81;18;54;12
-Residencia para mayores El Escorial;Calle Arias Montano 12;28280;Escorial (El);91 890 13 61;Privada;40,586443;-4,128244;60;39;18;65;30
-Residencia Galdama Fuenlabrada;Calle Villa Elena 21;28944;Fuenlabrada;91 615 42 61;Privada;40,280184;-3,770671;175;156;18;89;10
-Sanitas Residencial Getafe;Avenida Arcas del Agua 15;28905;Getafe;91 696 55 67;Privada;40,29041;-3,74782;196;47;18;24;9
-AMAVIR Getafe;Calle Islas Canarias 162;28905;Getafe;91 481 94 00;Privada;40,2897;-3,758479;180;77;18;43;10
-Centro Geriátrico Hortaleza;Calle de las Pedroñeras 38;28043;Madrid;91 388 41 55 / 652 91 91 45;Privada;40,466281;-3,630633;96;51;18;53;19
-Centro residencial Juan Pablo II;Carretera Comarcal 501 Km. 57;28680;San Martín de Valdeiglesias;91 861 14 06;Privada;40,358754;-4,387533;182;71;18;39;10
-Galdama Algete;Camino de Valderrey s/n (esq. C/ Luis de Góngora);28110;Algete;91 628 93 57;Privada;40,600652;-3,499469;90;48;17;53;19
-Residencia San Juan de Dios;Calle Herreros de Tejada 3;28016;Madrid;91 344 00 20;Privada sin fin de lucro;40,453459;-3,68198;49;39;17;80;35
-Residencia Isabel La Católica;Calle Joaquín Dicenta 27;28029;Madrid;91 732 18 80;Pública autonómica;40,472132;-3,694871;218;49;17;22;8
-Centro residencial Valmonte;Calle Romero Girón 9;28036;Madrid;91 458 48 00;Privada;40,45668;-3,6832;140;72;17;51;12
-Sanitas Residencial Alameda;Paseo Alameda de Osuna 78 - B;28042;Madrid;91 747 45 04;Privada;40,459641;-3,587407;118;36;17;31;14
-Residencia municipal de mayores de AMAVIR Patones;Calle Canal de Isabel II 23;28189;Patones;91 843 21 50;Pública local;40,851707;-3,487649;90;36;17;40;19
-Residencia Real de Rozas;Carretera de Entrepinos s/n;28649;Rozas de Puerto Real;91 863 44 79;Privada;40,308067;-4,48554;52;41;17;79;33
-DomusVi Alcalá de Henares;Avenida Miguel de Unamuno 5;28806;Alcalá de Henares;91 830 35 52;Privada;40,497;-3,37385;180;53;16;29;9
-SERGESA Boadilla del Monte;Calle Severo Ochoa 8;28660;Boadilla del Monte;91 495 28 60;Privada;40,407051;-3,893927;180;45;16;25;9
-Residencia para mayores AMAVIR Nuestra Casa;Calle Águedas 1;28400;Collado Villalba;91 849 38 54;Pública autonómica;40,6428;-4,00176;140;76;16;54;11
-Sanitas Residencial El Viso;Calle Rodríguez Marín 57;28002;Madrid;91 561 23 32;Privada;40,449811;-3,678808;102;56;16;55;16
-Residencia Padre Eladio;Calle Islas Bikini 6;28035;Madrid;91 373 37 67;Privada sin fin de lucro;40,475157;-3,727505;65;35;16;54;25
-Casaverde Vilamanta;Carretera de Cadalso de los Vidrios Km. 9.6;28610;Villamanta;91 813 63 35 / 91 813 62 26;Privada;40,297911;-4,120028;67;35;16;52;24
-Hogar Residencia San Luis de los Franceses;Calle Claudio Coello 94;28006;Madrid;91 431 28 00;Privada;40,432062;-3,68568;70;42;15;60;21
-GERIASA;Calle Doctor Esquerdo 63;28007;Madrid;91 557 22 30 / 669 40 18 90 / 669 40 18 89;Privada;40,419481;-3,668867;185;99;15;54;8
-Residencia Virgen de la Nueva;Calle Manuel Carvajal 14;28680;San Martín de Valdeiglesias;91 861 19 96;Privada;40,360707;-4,405366;114;77;15;68;13
-Residencia de ancianos Santa María de los Ángeles;Calle Monte Cristina 6;28250;Torrelodones;91 859 03 77 / 91 859 38 41 / 91 859 03 77;Privada;40,5835;-3,9578;33;2;15;6;45
-Residencia Gladiolos;Calle Gladiolos 5 - Colonia de San Crispín;28770;Colmenar Viejo;91 845 20 17;Privada;40,64916;-3,780773;74;59;14;80;19
-Residencia La Jarosa;Paseo de la Alameda 7;28440;Guadarrama;91 854 08 49;Privada;40,674911;-4,09324;50;29;14;58;28
-Residencia Gravina;Calle Gravina 20;28004;Madrid;91 523 03 12;Privada;40,422595;-3,69628;55;42;14;76;25
-AMAVIR Usera;Avenida La Perla 3;28041;Madrid;91 500 55 50;Privada;40,373175;-3,69411;180;33;14;18;8
-Residencia de ancianos Don Bosco;Calle Playa de Riazor 39;28042;Madrid;91 305 50 87;Privada sin fin de lucro;40,476049;-3,586676;62;38;14;61;23
-Residencia Isla de Kos;Avenida de Madrid 8;28710;Molar (El);91 841 08 12;Privada;40,730741;-3,582476;90;56;14;62;16
-Centro Residencial Sanitas Torrelodones;Calle Álamo 2;28250;Torrelodones;91 854 91 20;Privada;40,586409;-3,921128;143;110;14;77;10
-Residencia municipal Miralrío;Avenida de Madrid 39;28730;Buitrago del Lozoya;91 868 02 90;Privada;40,990195;-3,638099;44;30;13;68;30
-Residencia Nuestra Señora de la Soledad y del Carmen;Calle Soledad 52;28770;Colmenar Viejo;91 845 15 23;Privada;40,658362;-3,761569;82;29;13;35;16
-Residencia de 3ª edad Los Ángeles;Calle Valle del Alberche 22;28440;Guadarrama;91 850 88 42;Privada;40,648681;-4,04453;67;27;13;40;19
-Residencia para la 3ª edad Virgen de Regla 3E;Calle Prados Quemados 10;28752;Lozoyuela-Navas-Sieteiglesias;91 869 88 99 / 91 869 40 30 / 638 84 02 40;Privada;40,930333;-3,626284;46;32;13;70;28
-Residencia de 3ª edad Años Dorados III;Calle Agustín Calvo 19;28043;Madrid;91 388 22 62 / 91 388 05 48;Privada;40,464132;-3,650151;36;22;13;61;36
-Orpea Madrid Buenavista;Calle Antonia Rodríguez Sacristán 14;28044;Madrid;91 511 04 20;Privada;40,372854;-3,742862;196;149;13;76;7
-Orpea Meco;Calle Roble 11;28880;Meco;91 886 16 66;Privada;40,548354;-3,326857;147;38;13;26;9
-Residencia Bellas Vistas Moralzarzal;Calle El Gamonal 3;28411;Moralzarzal;91 857 41 54;Privada;40,707435;-3,955607;48;32;13;67;27
-Residencia municipal Mariana de Austria;Calle La Doctora 8;28600;Navalcarnero;91 810 11 50;Pública local;40,289954;-4,01423;45;26;13;58;29
-Residencias Los Jardines de Navas;Calle Sandro Pertini 8;28695;Navas del Rey;91 865 03 11;Privada;40,383345;-4,241357;40;33;13;83;33
-Residencia de mayores Los Ángeles;Avenida de los Ébanos 65;28903;Getafe;91 696 11 91;Privada;40,32102;-3,715585;180;66;12;37;7
-Fundación Residencia San Francisco de Paula;Calle Valdebernardo 29;28030;Madrid;91 371 01 58;Privada;40,4017;-3,631745;74;44;12;59;16
-Los Robles Gerhoteles Madrid;Calle Duquesa de Castrejón 19;28033;Madrid;91 744 52 80;Privada;40,464004;-3,660197;170;29;12;17;7
-Pisos tutelados para personas mayores;Calle Baltasar Santos 6;28038;Madrid;91 430 38 81;Pública autonómica;40,401912;-3,657431;45;35;12;78;27
-Orpea Madrid Carabanchel;Calle Nuestra Señora de la Luz 74;28047;Madrid;91 422 08 80;Privada;40,385279;-3,748959;160;73;12;46;8
-Residencia municipal El Perpetuo Socorro;Calle Crucero s/n;28792;Miraflores de la Sierra;91 844 33 55;Pública local;40,811;-3,76246;28;25;12;89;43
-Fundación San Diego y San Nicolás;Avenida de Majadahonda 4;28223;Pozuelo de Alarcón;91 352 07 44 / 91 352 07 45;Privada;40,436853;-3,821918;96;68;12;71;13
-Residencia para mayores Rosario;Calle Palmeras 3;28813;Torres de la Alameda;91 886 30 61;Pública local;40,397834;-3,359528;112;98;12;88;11
-Residencia La Edad de Oro;Avenida Príncipe de Asturias 1;28607;Álamo (El);91 812 22 85;Privada;40,236131;-3,991305;111;74;11;67;10
-Residencia Maravillas;Paseo de la Castellana 6;28640;Cadalso de los Vidrios;91 864 00 81;Privada;40,301421;-4,434597;112;60;11;54;10
-AMAVIR Humanes;Avenida de los Deportes 14;28970;Humanes de Madrid;91 604 05 32;Privada;40,246491;-3,815737;180;26;11;14;6
-Ballesol Majadahonda;Calle Cierzo 7 - Colonia Airesol I;28221;Majadahonda;91 639 56 11;Privada;40,479588;-3,859243;133;61;11;46;8
-Residencia La Aurora;Paseo Don Miguel de Ribagorda Gómez 1;28600;Navalcarnero;91 811 11 64;Privada;40,2943;-4,01007;177;29;11;16;6
-Orpea Pinto I;Calle San Martín 20;28320;Pinto;91 692 86 30;Privada;40,240875;-3,694609;160;24;11;15;7
-Ballesol Pozuelo;Calle Arquitectura 116 - 118;28224;Pozuelo de Alarcón;91 352 55 20 / 91 352 40 79;Privada;40,451626;-3,809275;257;165;11;64;4
-Sanitas Residencial Las Rozas;Avenida de Atenas 5;28290;Rozas de Madrid (Las);91 631 92 71;Privada;40,533736;-3,903171;133;38;11;29;8
-DomusVi Parque Coslada;Calle Manuel Azaña 5;28822;Coslada;91 673 01 00;Privada;40,419579;-3,553665;142;28;10;20;7
-Caim Los Olivos;Calle Félix Rodríguez de la Fuente 2;28140;Fuente el Saz de Jarama;91 620 07 69;Privada;40,635365;-3,512233;67;38;10;57;15
-Residencia de personas mayores Vista Alegre;Calle General Ricardos 177;28025;Madrid;91 462 94 14;Pública autonómica;40,383731;-3,739105;204;39;10;19;5
-Residencia Sagrada Familia;Calle Manuel Nieto 1;28035;Madrid;91 316 05 42 / 91 386 20 65;Privada;40,468399;-3,725035;30;27;10;90;33
-Hogar Santa Teresa Jornet;Calle Duquesa de Tamames 8;28044;Madrid;91 508 91 08 / 91 508 58 49;Privada sin fin de lucro;40,372459;-3,749811;143;52;10;36;7
-Residencia municipal Nazaret;Calle Cruces 2;28190;Montejo de la Sierra;91 869 72 80;Pública local;41,060158;-3,529068;58;46;10;79;17
-Residencia de 3ª edad Navas del Rey;Calle Aparejador Pedro de Tolosa 1;28695;Navas del Rey;91 865 03 80 / 91 865 03 95;Privada;40,387586;-4,251209;28;21;10;75;36
-Residencia de 3ª edad Peñas Albas;Avenida de España 4 - Urb. Peñas Albas;28810;Villalbilla;91 879 24 13;Privada;40,449708;-3,364523;84;59;10;70;12
-Residencia de 3ª edad Mirasierra;Carretera Antigua de Los Molinos 11;28470;Cercedilla;91 852 03 14;Privada;40,732574;-4,066404;46;32;9;70;20
-Residencia Santa Gema;Calle Peraleda 9;28260;Galapagar;91 858 38 56;Privada;40,576019;-4,011669;55;27;9;49;16
-Centro Geriátrico Madre Maravillas;Plaza de la Iglesia 2;28909;Getafe;91 684 70 85;Privada;40,3236;-3,65622;54;25;9;46;17
-Residencia Guadarrama El Escorial;Calle Fuente del Espino 51 - Urb. Los Builes;28440;Guadarrama;91 854 35 44;Privada;40,663373;-4,092164;90;32;9;36;10
-Santa María del Monte Carmelo;Calle Ayala 33 - 35;28001;Madrid;91 435 16 60;Privada sin fin de lucro;40,427758;-3,683551;99;56;9;57;9
-Residencia de personas mayores Plata y Castañar;Paseo Plata y Castañar 38;28021;Madrid;91 798 79 12;Pública autonómica;40,3527;-3,71927;220;23;9;10;4
-Residencia Santísima Trinidad;Avenida Osa Mayor 8;28023;Madrid;91 357 22 68;Privada sin fin de lucro;40,46112;-3,774748;54;41;9;76;17
-Residencia Jesús Nazareno y los Dolores;Calle Magnolias 105;28029;Madrid;91 315 55 45 / 91 315 55 46;Privada sin fin de lucro;40,47279;-3,689911;95;25;9;26;9
-Residencia Lusanz;Calle Aurora 9;28035;Madrid;91 316 58 71;Privada;40,464681;-3,722529;22;5;9;23;41
-Residencia Nava Real;Ronda de San Juan 11;28600;Navalcarnero;91 737 20 42 / 677 34 46 20;Privada;40,290628;-4,008292;173;29;9;17;5
-Residencia geriátrica Las Praderas;Carretera de Húmera 69;28224;Pozuelo de Alarcón;91 352 00 82;Privada;40,43717;-3,800058;100;33;9;33;9
-Residencia de 3ª edad Sierra de Madrid;Calle Acero 3;28791;Soto del Real;619 24 23 33 / 91 847 62 97;Privada;40,750167;-3,784135;29;18;9;62;31
-Edalia Torrejón de Ardoz;Calle Milán 6;28850;Torrejón de Ardoz;91 655 62 93;Privada;40,463333;-3,465583;149;83;9;56;6
-Residencia Los Peñascales;Avenida del Lago 25;28250;Torrelodones;91 630 35 98;Privada;40,569141;-3,898356;127;87;9;69;7
-Residencia de 3ª edad La Alameda;Calle Miguel de Unamuno 43;28813;Torres de la Alameda;91 885 88 68;Privada;40,404214;-3,368107;146;56;9;38;6
-Residencia de personas mayores Cisneros;Avenida de Ajalvir 1;28806;Alcalá de Henares;91 880 00 15;Pública autonómica;40,489541;-3,376695;129;75;8;58;6
-Residencia El Berrueco;Calle Escuelas 1;28192;Berrueco (El);91 868 61 84;Pública autonómica;40,887092;-3,560344;110;19;8;17;7
-Residencia Marqués de Santillana;Calle Mártires 2;28730;Buitrago del Lozoya;91 868 07 86;Privada;40,995684;-3,633999;42;33;8;79;19
-Residencia Mi Casita;Calle Navamora 6;28260;Galapagar;91 858 25 18;Privada;40,569107;-3,995688;21;17;8;81;38
-Residencia Vitalia Griñón;Avenida Albéniz 2;28971;Griñón;91 860 94 99;Privada;40,221176;-3,850278;150;51;8;34;5
-Pisos tutelados para personas mayores de Leganés;Calle Braganza 3 - 5;28917;Leganés;91 481 62 40;Pública autonómica;40,357234;-3,785315;135;58;8;43;6
-Residencia de Mayores Santa Engracia;Calle Santa Engracia 118;28003;Madrid;91 990 77 20;Pública local;40,440412;-3,700792;36;12;8;33;22
-Residencia La Purísima Concepción;Avenida Ciudad de Barcelona 85;28007;Madrid;91 551 78 44 / 91 551 14 55;Privada sin fin de lucro;40,400107;-3,672762;156;32;8;21;5
-Residencia hogar San Enrique y Santa Rita;Calle Arenas y Navarro 16;28023;Madrid;91 307 93 40 / 91 307 93 41;Privada sin fin de lucro;40,469407;-3,796905;96;16;8;17;8
-Residencia La Florida;Calle Zarauz 6 - Urb. La Florida;28023;Madrid;91 372 94 98 / 91 372 90 05 / 618 31 70 28;Privada;40,470849;-3,813591;23;20;8;87;35
-Residencia y apartamentos tutelados Usera;Calle Cristo de la Victoria 247;28026;Madrid;91 330 72 00;Pública autonómica;40,378882;-3,709827;160;147;8;92;5
-Residencia El Jardín;Calle López de Hoyos 384;28043;Madrid;696 25 60 63;Privada;40,461216;-3,658991;25;19;8;76;32
-Residencia Ensanche de Vallecas;Avenida Cerro Milano 1;28051;Madrid;91 494 86 77;Pública autonómica;40,36886;-3,618639;160;19;8;12;5
-Centro para mayores Santa Isabel;Calle Valleja 30;28411;Moralzarzal;91 842 10 99;Privada;40,675421;-3,970554;48;33;8;69;17
-Residencia Casa Jardín Pozuelo;Avenida Leopoldo Calvo Sotelo Bustelo 25;28224;Pozuelo de Alarcón;619 06 04 90;Privada;40,451918;-3,796343;21;19;8;90;38
-AMAVIR San Agustín del Guadalix;Calle Halcón 1;28750;San Agustín del Guadalix;91 846 63 00;Privada;40,676006;-3,620976;180;74;8;41;4
-AMAVIR La Marina;Avenida de Cataluña 4;28703;San Sebastián de los Reyes;91 659 01 88;Privada;40,555508;-3,623579;159;121;8;76;5
-Residencia municipal Hontanar de Jarama;Calle Canal de Isabel II 38;28189;Torremocha de Jarama;91 843 10 55;Pública local;40,839352;-3,500869;98;31;8;32;8
-Residencia de 3ª edad Campodón;Calle Prado 3;28922;Alcorcón;91 616 66 96 / 91 616 10 57;Privada;40,361884;-3,87244;146;61;7;42;5
-Hotel de 3ª edad El Madroño;Calle La Perdiz 12 - La Navata;28420;Galapagar;91 858 71 04;Privada;40,593723;-3,985816;50;19;7;38;14
-Residencia mixta de 3ª edad Guadarrama;Paseo de Molino del Rey 31;28440;Guadarrama;91 854 07 83;Privada;40,667412;-4,081918;30;21;7;70;23
-Apartamentos municipales para mayores San Francisco El Grande;Calle Jerte 1;28005;Madrid;91 364 40 05;Pública local;40,410992;-3,715068;68;23;7;34;10
-Casasolar Santo Duque de Gandía;Calle Aniceto Marinas 114;28008;Madrid;91 541 62 97;Privada sin fin de lucro;40,432378;-3,734746;180;74;7;41;4
-Residencia de Personas Mayores Goya;Calle Doctor Esquerdo 26;28009;Madrid;91 276 10 00;Pública autonómica;40,424403;-3,669357;51;20;7;39;14
-AMAVIR Villaverde;Calle Berrocal 42;28021;Madrid;91 505 52 00;Privada;40,344387;-3,676679;180;24;7;13;4
-Residencia de 3ª edad Castalia;Calle Ardales 2;28023;Madrid;91 357 47 47;Privada;40,459651;-3,782958;24;20;7;83;29
-Residencia de mayores Gran Residencia;Calle General Ricardos 177;28025;Madrid;91 462 58 00;Pública autonómica;40,381984;-3,734634;460;113;7;25;2
-Residencia La Guindalera;Calle Pintor Moreno Carbonero 15;28028;Madrid;91 713 17 70;Privada sin fin de lucro;40,438689;-3,668678;56;33;7;59;13
-DomusVi Quijorna;Camino de la Charneca 25;28693;Quijorna;91 816 88 72 / 91 816 89 36;Privada;40,433307;-4,056359;110;26;7;24;6
-Urbanización de mayores;Avenida de Guadarrama s/n;28609;Sevilla la Nueva;91 812 91 44;Privada;40,3551;-4,00668;178;82;7;46;4
-Residencia para personas mayores Torrelaguna;Calle Doctor Manuel Hidalgo Huerta 12;28180;Torrelaguna;91 843 00 25;Pública autonómica;40,826876;-3,541824;94;51;7;54;7
-Residencia 3ª edad GERONTOS;Avenida de Madrid 1;28729;Venturada;91 843 94 90;Privada;40,799662;-3,625449;23;15;7;65;30
-Residencia Los Hueros;Calle Mayor 53;28810;Villalbilla;91 879 38 56 / 682 74 08 52;Privada;40,445755;-3,35112;16;8;7;50;44
-Residencia Cervantes;Calle José Caballero 1 - 3;28805;Alcalá de Henares;91 883 06 05;Privada;40,488965;-3,349827;46;28;6;61;13
-Residencia Vigor;Paseo de la Ermita 51;28490;Becerril de la Sierra;91 853 62 49;Privada;40,711257;-3,986544;51;13;6;25;12
-Residencia El Llano;Calle Cruz del Portugués 5;28370;Chinchón;91 894 13 46;Privada;40,1364;-3,41996;54;31;6;57;11
-Cobeña Inarejos;Calle Vereda de los Sastres 1;28863;Cobeña;91 620 86 97;Privada;40,573724;-3,503107;99;45;6;45;6
-Residencia de 3ª edad ADEMAR;Calle Hortensias 2;28770;Colmenar Viejo;91 848 62 02;Privada;40,651301;-3,782312;23;17;6;74;26
-Residencia Los Balcones;Calle Trigo 14;28914;Leganés;91 498 75 07;Privada;40,327571;-3,780226;128;51;6;40;5
-Residencia El Pardo de Aravaca;Calle Darío Aparicio 33 - 35;28023;Madrid;91 740 04 90;Privada;40,470473;-3,769039;88;20;6;23;7
-Residencia Fundación Santa Lucía - Moratalaz;Calle Luis de Hoyos Sainz 196;28030;Madrid;91 773 04 83;Privada sin fin de lucro;40,400399;-3,629447;70;28;6;40;9
-Sanitas Residencial Puerta de Hierro;Calle Alfonso Fernández Clausells 2;28035;Madrid;91 398 00 17;Privada;40,461209;-3,724388;45;14;6;31;13
-Ballesol Latina;Calle Casuarina 4;28044;Madrid;91 710 81 90;Privada;40,381249;-3,764778;180;130;6;72;3
-Residencia Nuestra Señora de Valverde;Calle Convenio 7;28053;Madrid;91 477 71 83;Privada;40,39326;-3,672448;44;13;6;30;14
-Residencia Ponderosa Real;Avenida Maderuelos 5;28410;Manzanares el Real;91 857 38 38;Privada;40,724243;-3,939454;91;12;6;13;7
-Residencia geriátrica lunion Parla;Calle Felipe II 23;28982;Parla;91 664 42 09;Privada;40,230513;-3,762052;180;144;6;80;3
-Residencia Castilla;Calle Sierra 16 - Urb. La Sierra;28979;Serranillos del Valle;91 817 55 21;Privada;40,21026;-3,871749;26;19;6;73;23
-Residencia Nuestra Señora de la Antigua;Calle Nervión 6;28670;Villaviciosa de Odón;91 616 70 18;Privada;40,374307;-3,924425;49;16;6;33;12
-Residencia de la 3ª edad Benja;Avenida de Toledo 23;28607;Álamo (El);91 810 41 50;Privada;40,230334;-3,985376;188;27;5;14;3
-Alcalá Centro Geriátrico;Calle Gustavo Adolfo Bécquer 27;28806;Alcalá de Henares;91 884 20 27;Privada;40,511397;-3,374137;140;38;5;27;4
-Residencia Virgen del Pilar;Calle Mártires 14;28660;Boadilla del Monte;91 633 03 75;Privada;40,409206;-3,878629;233;12;5;5;2
-Asociación Amigos de la 3ª Edad El Concejo;Calle Mariano García 1;28720;Bustarviejo;91 848 20 55;Privada;40,858612;-3,709377;51;21;5;41;10
-Residencia de 3ª edad Pablo Neruda;Calle Santa Clara 1;28350;Ciempozuelos;91 801 51 81;Privada;40,1613;-3,62137;103;15;5;15;5
-Sol Salud;Urbanización La Cerca blq. 30;28400;Collado Villalba;91 850 22 14;Privada;40,6443;-3,98691;65;13;5;20;8
-Vitalia Leganés;Calle María Moliner 7;28919;Leganés;91 686 07 00;Privada;40,343814;-3,751172;266;150;5;56;2
-Residencia geriátrica María Inmaculada;Calle Cartagena 120;28002;Madrid;91 519 41 70 / 627 92 35 07;Privada;40,440807;-3,674541;24;13;5;54;21
-Asilo de ancianos - Hermanitas de los Pobres;Calle Almagro 7 (entrada por C/ Zurbarán, 4);28010;Madrid;91 319 20 96;Privada sin fin de lucro;40,429563;-3,693756;94;11;5;12;5
-Residencia sacerdotal San Pedro;Calle San Bernardo 101;28015;Madrid;91 447 42 00;Privada sin fin de lucro;40,430991;-3,705335;95;26;5;27;5
-Nuestra Señora de Montserrat - Fundación benéfico social;Calle San Bernardo 79;28015;Madrid;91 447 12 50;Privada sin fin de lucro;40,427538;-3,706413;96;28;5;29;5
-Residencia geriátrica María Auxiliadora;Calle Eugenia de Montijo 79;28025;Madrid;91 465 18 23 / 91 465 64 22;Privada;40,376821;-3,749433;71;12;5;17;7
-Residencia Avenida San Luis;Avenida San Luis 58;28033;Madrid;91 382 20 92;Privada;40,472452;-3,653224;99;32;5;32;5
-Residencia Las Azaleas;Calle Bueso de Pineda 52;28043;Madrid;91 300 49 51;Privada;40,455438;-3,65273;67;15;5;22;7
-GERIATEL Aluche;Calle Ocaña 193;28047;Madrid;91 509 98 84;Privada;40,389068;-3,753566;55;38;5;69;9
-Residencia de ancianos María Leonor y Legado de los pobres Hernández Muriel;Calle María Leonor 3;28200;San Lorenzo de El Escorial;91 890 51 04;Privada;40,596304;-4,149929;74;41;5;55;7
-Residencia de personas mayores San Martín de Valdeiglesias;Calle San Martín 2;28680;San Martín de Valdeiglesias;91 861 04 00;Pública autonómica;40,363671;-4,402149;122;11;5;9;4
-Las Mimosas;Calle Retama 12;28979;Serranillos del Valle;91 813 81 93;Privada;40,210418;-3,869961;72;26;5;36;7
-Flor de Retama;Calle Retama 15;28979;Serranillos del Valle;91 817 58 01 / 606 53 41 10;Privada;40,209983;-3,870342;20;15;5;75;25
-Residencia Rosalba;Calle Tórtola 1;28609;Sevilla la Nueva;91 812 88 52;Privada;40,344126;-4,029598;210;35;5;17;2
-AMAVIR Alcalá de Henares;Calle Octavio Paz 13;28806;Alcalá de Henares;901 30 20 10;Privada;40,5007;-3,3716;180;14;4;8;2
-Los Llanos Vital;Calle Miguel de Cervantes 2;28430;Alpedrete;91 851 08 88;Privada;40,645494;-4,022564;93;59;4;63;4
-Residencia de mayores Navasalud;Calle Colada Charco de la Hoya 10 - D - La Navata;28420;Galapagar;91 858 41 81;Privada;40,599125;-3,987496;28;8;4;29;14
-Residencia Fuenteverde;Calle Acuario 3;28440;Guadarrama;91 849 30 22;Privada;40,653196;-4,04674;15;9;4;60;27
-Residencia municipal de San Miguel Arcángel;Calle Panera 1;28440;Guadarrama;91 854 77 22;Privada;40,672617;-4,088008;46;16;4;35;9
-Residencia Geriátrica 3ª Edad Las Rosas Madrid;Calle Butrón 14;28022;Madrid;91 313 09 54 / 651 93 76 27;Privada;40,425011;-3,609392;42;12;4;29;10
-Residencia para la 3ª edad Virgen Llana;Calle Santa Tecla 24;28022;Madrid;91 320 13 70;Privada;40,442886;-3,614434;11;1;4;9;36
-Residencia de mayores Jardín de Aravaca;Calle Ana Teresa 11;28023;Madrid;91 357 99 99;Privada;40,460693;-3,782069;21;11;4;52;19
-Casablanca El Plantío;Avenida Victoria 74;28023;Madrid;91 372 81 02;Privada;40,47134;-3,826464;59;18;4;31;7
-Residencia Adolfo Suárez;Calle de la Rávena 18;28032;Madrid;91 322 09 00;Pública autonómica;40,418859;-3,614082;280;158;4;56;1
-Residencia Jazmín;Calle Jazmín 48;28033;Madrid;91 383 65 20;Pública local;40,478607;-3,667022;59;11;4;19;7
-Residencia Nuestra Señora del Perpetuo Socorro;Calle Áncora 42;28045;Madrid;91 506 05 60 / 91 539 19 84;Privada sin fin de lucro;40,402737;-3,689147;93;47;4;51;4
-Residencia Coímbra Park;Calle Arizónicas 14;28935;Móstoles;91 645 56 00 / 91 645 59 99;Privada;40,31457;-3,924784;34;11;4;32;12
-Residencia 3ª edad Prado del Rey;Calle Pío Milla Andrés 5;28223;Pozuelo de Alarcón;636 69 37 07;Privada;40,404647;-3,779446;27;17;4;63;15
-Hogar Virgen de la Esperanza;Calle Iglesia 5;28701;San Sebastián de los Reyes;91 651 55 11;Privada sin fin de lucro;40,54684;-3,626786;72;19;4;26;6
-Residencia Virgen del Socorro;Avenida Generalísimo 2;28610;Villamanta;91 813 67 38;Privada;40,298695;-4,105787;98;30;4;31;4
-Pisos tutelados para personas mayores;Calle Cotos 2 - 4 - 6;28730;Buitrago del Lozoya;91 868 20 71;Pública autonómica;40,986954;-3,633659;50;7;3;14;6
-Residencia de ancianos San Juan Bautista;Calle Madrid 23;28380;Colmenar de Oreja;91 894 33 07 / 91 894 44 98;Privada sin fin de lucro;40,114281;-3,392982;99;57;3;58;3
-Residencia Santa Teresa;Calle Isabel la Católica 1;28770;Colmenar Viejo;91 845 33 98;Privada;40,65797;-3,765927;26;17;3;65;12
-Fundación Manzanares;Calle Mayor 13 - 15;28597;Fuentidueña de Tajo;91 872 84 86;Privada;40,118985;-3,159995;53;13;3;25;6
-Valdesalud;Calle Cíes 22 - La Navata;28420;Galapagar;91 858 03 02;Privada;40,596325;-3,989553;27;21;3;78;11
-Residencia Virgen del Valle;Calle Valle del Alberche 6;28440;Guadarrama;91 851 88 10;Privada;40,651315;-4,048455;26;6;3;23;12
-Residencia de 3ª edad SagradaFamilia;Calle Luis Larrainza 46 bis;28002;Madrid;91 413 41 15;Privada;40,450821;-3,6687;27;25;3;93;11
-Residencia San Vicente;Calle Modesto Lafuente 11;28010;Madrid;91 445 75 14;Privada sin fin de lucro;40,438253;-3,696379;50;43;3;86;6
-Residencia de 3ª edad Retiro de Aravaca;Calle Ana Teresa 1;28023;Madrid;91 307 06 08;Privada;40,460711;-3,780451;47;24;3;51;6
-Residencia Los Enebros;Avenida Victoria 120;28023;Madrid;91 372 97 74;Privada;40,473572;-3,832842;38;13;3;34;8
-Residencia para personas mayores Nuestra Señora del Camino;Calle Collado de Tirobarra 6;28034;Madrid;91 736 47 94;Privada sin fin de lucro;40,494977;-3,715905;71;7;3;10;4
-Residencia Abedul II;Calle Agustín Calvo 15;28043;Madrid;91 759 84 56;Privada;40,464056;-3,650933;29;12;3;41;10
-Residencia municipal Virgen de la Concepción;Plaza Buenavista 29;28600;Navalcarnero;91 811 48 82;Pública local;40,291808;-4,01564;60;13;3;22;5
-Residencia Montesalud;Calle Azor 2 - Urb. Molino de la Hoz;28232;Rozas de Madrid (Las);91 636 99 00;Privada;40,535237;-3,942391;150;18;3;12;2
-Orpea Punta Galea;Calle Playa de Sardinero 19 bis - Urb. Punta Galea;28290;Rozas de Madrid (Las);91 636 92 20;Privada;40,540094;-3,900667;160;74;3;46;2
-Residencia San Marcos;Calle Rodrigo de Triana 23;28330;San Martín de la Vega;91 808 72 58;Privada;40,209571;-3,5776;80;6;3;8;4
-Casablanca Valdesur;Carretera de Andalucía Km. 25;28343;Valdemoro;91 895 04 00;Privada;40,1855;-3,67449;178;8;3;4;2
-Orpea Villanueva de la Cañada;Camino de Encinarejo 3;28691;Villanueva de la Cañada;91 811 79 80;Privada;40,452299;-4,015236;328;29;3;9;1
-Residencia Santa Fe;Avenida de la Estación 71;28293;Zarzalejo;91 899 24 47;Privada;40,53933;-4,163902;81;37;3;46;4
-Sanitas Residencial Henares;Calle Miguel Delibes 2;28806;Alcalá de Henares;91 830 35 11;Privada;40,49439;-3,371467;136;43;2;32;1
-Residencia de 3ª edad El Pilar;Paseo de Ronda 8;28690;Brunete;91 815 82 25;Privada;40,405553;-3,996236;15;9;2;60;13
-Residencia de Ancianos Palacios;Paseo de la Estación 16;28350;Ciempozuelos;91 893 07 12 / 91 893 07 62;Privada;40,159194;-3,614336;85;18;2;21;2
-Hotel Residencia Virgen del Consuelo;Avenida de los Toreros 4;28350;Ciempozuelos;91 893 31 40 / 91 893 31 29;Privada;40,156299;-3,630613;73;5;2;7;3
-Residencia asistida de personas mayores - Complejo Asistencial Benito Menni;Calle Jardines 1;28350;Ciempozuelos;91 893 01 50;Privada sin fin de lucro;40,156188;-3,61933;208;9;2;4;1
-Residencia Nuestra Señora del Pilar;Calle Sotogrande de Abajo 11;28450;Collado Mediano;91 840 68 33;Privada sin fin de lucro;40,666798;-4,045304;31;22;2;71;6
-Residencia de 3ª edad Primar;Avenida de Aragón 21;28140;Fuente el Saz de Jarama;91 620 19 00 / 91 620 18 92;Privada;40,636952;-3,507427;40;8;2;20;5
-Residencia de 3ª edad Antares;Calle Puente del Retamar 4;28260;Galapagar;91 859 70 51;Privada;40,565285;-4,002372;25;13;2;52;8
-Residencia de personas mayores de Getafe;Avenida Juan Carlos I 4 - Sector III;28905;Getafe;91 682 42 47;Pública autonómica;40,297303;-3,741689;64;33;2;52;3
-Residencia Los Nogales Cerro de los Ángeles;Calle Groenlandia 6;28909;Getafe;91 684 93 10;Privada;40,325152;-3,661991;99;25;2;25;2
-Residencia de personas mayores municipal de Griñón;Barrio Ermita 1;28971;Griñón;91 814 09 52 / 91 814 06 71;Pública local;40,219166;-3,853;78;18;2;23;3
-Residencia 3ª edad Mañón;Calle Antonio Machado 22;28440;Guadarrama;91 854 76 30;Privada;40,67932;-4,09965;15;9;2;60;13
-Los Nogales La Paloma;Calle Toledo 96;28005;Madrid;91 365 03 03;Privada;40,40819;-3,710967;99;10;2;10;2
-Residencia de personas mayores Colegio de la Paz;Calle Doctor Esquerdo 44;28007;Madrid;91 409 09 43 / 91 409 16 11 / 91 409 11 64;Pública autonómica;40,420467;-3,669259;80;8;2;10;3
-Centro residencial de mayores Ave María;Avenida del Áster 24;28016;Madrid;91 413 45 88;Privada;40,456914;-3,665656;38;5;2;13;5
-Apartamentos Tutelados para personas mayores María Orúe;Calle María Orúe 1 A;28021;Madrid;91 710 04 84;Pública autonómica;40,353035;-3,686513;28;18;2;64;7
-Casablanca Madrid;Avenida Victoria 36;28023;Madrid;91 307 71 77;Privada;40,468989;-3,820706;71;61;2;86;3
-DomusVi Arturo Soria;Calle Duquesa de Castrejón 18 - 20;28033;Madrid;91 300 13 90;Privada;40,463405;-3,660257;145;19;2;13;1
-Sanitas Residencial Mirasierra;Calle Nuria 40;28034;Madrid;91 735 32 70;Privada;40,493033;-3,707258;125;74;2;59;2
-Residencia Santa Filipina;Avenida de Burgos 4;28036;Madrid;91 767 22 76;Privada;40,469916;-3,676194;32;29;2;91;6
-Residencia Casa San Luis Gonzaga - Los Almendros;Carretera de Colmenar Viejo Km. 14.4;28049;Madrid;91 734 74 77;Privada sin fin de lucro;40,528;-3,6935;45;8;2;18;4
-Residencia Nuestra Señora de la Montaña II;Urbanización Las Colinas 8;28950;Moraleja de Enmedio;91 600 50 30;Privada;40,268986;-3,878887;23;9;2;39;9
-Residencia Fuente de Salud;Calle de España 3;28411;Moralzarzal;91 857 61 57 / 91 857 81 21;Privada;40,6738;-3,9717;37;31;2;84;5
-Residencia de personas mayores de Parla;Calle Zuloaga 2;28982;Parla;91 698 51 61;Pública autonómica;40,241405;-3,760096;64;9;2;14;3
-Residencia Valderey;Calle Ciudad Real 18;28223;Pozuelo de Alarcón;91 351 32 85;Privada;40,419423;-3,841079;15;4;2;27;13
-Residencia Santa Helena;Carretera de Ajalvir (M-113) 7;28815;Ribatejada;91 879 19 67;Privada;40,668213;-3,390293;33;17;2;52;6
-Residencia Años Dorados II;Paseo de Europa 52;28701;San Sebastián de los Reyes;91 653 53 53;Privada;40,568758;-3,60247;50;10;2;20;4
-Residencia Santa Bárbara del Hórreo;Calle Jacinto Benavente 15;28609;Sevilla la Nueva;91 812 92 97;Privada;40,344545;-4,028279;33;10;2;30;6
-Residencia La Solana;Plaza de la Iglesia 4;28550;Tielmes;91 874 60 50;Privada;40,246099;-3,316626;142;102;2;72;1
-Residencia Las Celindas;Avenida de la Constitución 128;28850;Torrejón de Ardoz;91 656 52 73;Privada;40,45959;-3,46226;76;9;2;12;3
-Residencia El Castillo, S. L.;Avenida del Valle 7 - Urb. El Castillo;28670;Villaviciosa de Odón;91 616 34 61;Privada;40,354291;-3,889337;73;28;2;38;3
-Residencia de 3ª edad de Campo Real;Avenida de Arganda 1;28510;Campo Real;91 874 10 09;Pública local;40,338527;-3,376916;66;43;1;65;2
-Residencia para Mayores Casaquinta;Avenida San Juan de Dios 3;28350;Ciempozuelos;91 893 30 00;Privada sin fin de lucro;40,160069;-3,61456;320;74;1;23;0
-Orpea Estremera;Avenida Papa Juan Pablo II s/n;28595;Estremera;91 875 57 47 / 91 876 14 64;Privada;40,188153;-3,108639;82;4;1;5;1
-Residencia de 3ª edad San Esteban, S. L.;Calle Argentina 24 - bajos;28944;Fuenlabrada;91 600 01 55;Privada;40,284526;-3,786246;15;2;1;13;7
-Residencia Ítaca;Calle Álvaro Cunqueiro 18;28260;Galapagar;91 851 26 99 / 91 851 88 58;Privada;40,614605;-4,008678;21;3;1;14;5
-Residencia El Amanecer;Calle Rosales 4 - Colonia La Canaleja;28260;Galapagar;91 858 12 01;Privada;40,569854;-4,002147;26;6;1;23;4
-Orpea Madrid Loreto;Avenida Reina Victoria 60 - 62;28003;Madrid;91 535 77 16;Privada;40,446434;-3,713216;144;26;1;18;1
-Fundación de Doña Fausta Elorz;Calle Conde de Peñalver 53;28006;Madrid;91 309 96 50;Privada sin fin de lucro;40,431746;-3,675205;120;9;1;8;1
-Apartamentos municipales para mayores Retiro;Calle José Martínez de Velasco 22;28007;Madrid;91 557 13 19;Pública local;40,414576;-3,667489;32;14;1;44;3
-Residencia Maestro Lassalle;Calle Maestro Lassalle 6;28016;Madrid;91 359 17 45;Privada;40,462471;-3,673193;21;9;1;43;5
-AMAVIR Ciudad Lineal;Calle Gabriel Montero 3;28017;Madrid;91 327 61 99;Privada;40,425293;-3,629239;180;97;1;54;1
-Residencia Villaverde Alzheimer;Carretera de Villaverde a Vallecas 38;28021;Madrid;91 723 09 61;Pública autonómica;40,356334;-3,686186;52;39;1;75;2
-Residencia de ancianos Nuestra Señora del Pilar;Calle de la Esfinge 34;28022;Madrid;91 741 17 62;Privada sin fin de lucro;40,444197;-3,609889;55;3;1;5;2
-Residencia de 3ª edad Las Mercedes;Calle Ana Teresa 7;28023;Madrid;91 307 01 76;Privada;40,460646;-3,780955;20;13;1;65;5
-Orpea Madrid Aravaca;Avenida del Talgo 53;28023;Madrid;91 387 87 90;Privada;40,446777;-3,78057;240;3;1;1;0
-Residencia Juan XXIII;Calle Proción 10;28023;Madrid;91 372 96 07;Privada;40,467425;-3,800898;40;5;1;13;3
-Mi Casa - Hermanitas de los Pobres;Calle Doctor Esquerdo 49;28028;Madrid;91 574 29 88;Privada sin fin de lucro;40,422822;-3,668711;93;3;1;3;1
-Residencia municipal Margarita Retuerto;Calle Francisco Altimiras 2;28028;Madrid;91 724 14 48;Pública local;40,43414;-3,663665;90;4;1;4;1
-Residencia de 3ª edad Vuestra Casa II;Calle Martínez Izquierdo 37;28028;Madrid;91 725 79 04;Privada;40,434197;-3,668279;27;15;1;56;4
-Residencia Castellar;Calle Sierra Vieja 73;28031;Madrid;91 222 01 50 / 91 222 01 41 / 91 380 87 82;Privada;40,379216;-3,622671;34;24;1;71;3
-Residencia de 3ª edad Atenea - Mirasierra;Avenida Cardenal Herrera Oria 162;28034;Madrid;91 731 05 70;Privada;40,487332;-3,705937;44;2;1;5;2
-Centro geriátrico Ecoplar Mirasierra;Calle Ventisquero de la Condesa 46;28034;Madrid;91 387 60 50;Privada;40,494739;-3,717871;75;68;1;91;1
-Ballesol Mirasierra;Calle Collado de Cerro Malejo 5 - 7;28035;Madrid;91 738 90 22;Privada;40,488923;-3,715938;232;31;1;13;0
-Sanatorio geriátrico Los Álamos;Calle Pirineos 37;28040;Madrid;91 459 11 50 / 91 459 86 55;Privada;40,454937;-3,717732;34;7;1;21;3
-Residencia Orcasur;Calle Salobreña 2;28041;Madrid;91 369 92 34;Pública autonómica;40,366186;-3,700592;64;4;1;6;2
-Residencia de 3ª edad La Santina Dos, S. L.;Calle Isla de Cuba 2;28042;Madrid;91 320 03 54;Privada;40,44999;-3,610482;50;16;1;32;2
-Caser Residencial Arturo Soria;Calle Puerto de Santa María 15;28043;Madrid;91 716 00 36;Privada;40,454244;-3,651427;140;10;1;7;1
-Residencia Miraflores II;Calle Ulises 44;28043;Madrid;91 300 44 42;Privada;40,457943;-3,652128;72;10;1;14;1
-Residencia Doctor González Bueno;Carretera de Colmenar Viejo Km. 13.5;28049;Madrid;91 734 63 00 / 91 734 77 64 / 91 734 34 54;Pública autonómica;40,525711;-3,688041;617;15;1;2;0
-Residencia de 3ª edad - Asociación Rosas del Camino;Calle San Roque 77;28600;Navalcarnero;91 811 10 01 / 91 811 10 59;Privada;40,283836;-4,011903;30;26;1;87;3
-Residencia Bellaescusa;Calle Miguel Hernández 1;28570;Orusco de Tajuña;91 876 12 02;Privada;40,286949;-3,206878;152;19;1;13;1
-Gerontos Pedrezuela;Calle Eras 96;28723;Pedrezuela;91 843 37 80;Privada;40,743291;-3,606735;44;23;1;52;2
-Residencia Bellas Vistas;Avenida Marcial Llorente 37;28696;Pelayos de la Presa;91 864 42 38 / 91 864 41 51;Privada;40,358592;-4,333794;120;106;1;88;1
-Residencia Alarcón;Calle Caridad 34;28224;Pozuelo de Alarcón;91 351 09 18 / 91 715 10 91;Privada;40,443765;-3,798652;30;12;1;40;3
-Residencia La Suiza Santa Rita;Calle Berna 4 - Urb. La Suiza Española;28294;Robledo de Chavela;91 899 58 37 / 91 899 80 66;Privada;40,511155;-4,243246;78;61;1;78;1
-Residencia San Sebastián de los Reyes;Calle Marie Curie s/n;28703;San Sebastián de los Reyes;91 623 70 12;Pública autonómica;40,541786;-3,623643;140;26;1;19;1
-Residencia Nuestra Señora del Rosario;Calle Soledad 39;28850;Torrejón de Ardoz;91 675 28 59;Privada;40,458533;-3,476399;56;2;1;4;2
-Acacias Centro Geriátrico;Calle Jesusa Lara 36;28250;Torrelodones;91 859 45 30;Privada;40,579396;-3,957384;20;17;1;85;5
-DomusVi Tres Cantos;Ronda de Poniente 1;28760;Tres Cantos;91 806 50 51;Privada;40,601901;-3,714957;99;53;1;54;1
-Residencia La Paz;Camino de Aldea del Fresno 1;28610;Villamanta;91 813 60 05;Privada;40,297835;-4,1199;54;23;1;43;2
-AMAVIR Villanueva;Avenida Madrid 3;28691;Villanueva de la Cañada;91 815 57 01;Privada;40,447962;-3,992299;180;5;1;3;1
-Centro sociosanitario Medinaceli;Avenida de los Estudiantes 3;28229;Villanueva del Pardillo;91 815 44 70;Privada;40,481036;-3,968883;122;3;1;2;1
-Residencia Santa Gema Galgani;Calle Pensamientos 20;28607;Álamo (El);91 812 09 40;Privada;40,224957;-3,996695;14;1;0;7;0
-Centro Residencial Los Villares;Avenida de los Villares 1;28500;Arganda del Rey;91 870 19 86;Privada;40,312053;-3,448587;25;1;0;4;0
-Residencia El Mural;Barrio Alto 35;28390;Belmonte de Tajo;91 874 74 11;Privada;40,133869;-3,33755;49;9;0;18;0
-Residencia Palacio de Carabaña;Calle Madrid 3;28560;Carabaña;91 872 30 97;Privada;40,256378;-3,236384;49;15;0;31;0
-Residencia para Mayores del Carmen, S. L.;Calle Salvador Canals 5;28470;Cercedilla;91 852 33 42;Privada;40,730493;-4,067206;20;4;0;20;0
-Residencia La Pinarilla;Calle Ventorro 4;28694;Chapinería;91 865 06 88;Privada;40,382606;-4,208618;76;1;0;1;0
-Residencia Las Vegas;Calle Cabañeros 110;28350;Ciempozuelos;91 809 14 75;Pública autonómica;40,153865;-3,634648;78;7;0;9;0
-Sanitas Residencial Almenara;Calle Colmenar 2;28213;Colmenar del Arroyo;91 865 10 00;Privada;40,425212;-4,199442;106;7;0;7;0
-Residencia de 3ª edad Ruiz y Latorre;Calle de las Casas 22;28978;Cubas de la Sagra;91 814 28 95;Privada;40,198496;-3,84462;28;15;0;54;0
-Residencia de personas mayores Santa María del Silencio - Cáritas;Calle Sagrado Corazón 25;28978;Cubas de la Sagra;91 814 23 00;Privada sin fin de lucro;40,190692;-3,840697;130;4;0;3;0
-Residencia municipal de mayores de Fuenlabrada;Calle Villa Elena 21;28942;Fuenlabrada;91 607 12 43;Pública local;40,288523;-3,812639;63;0;0;0;0
-Caim Los Olivos;Avenida de Aragón 15;28140;Fuente el Saz de Jarama;91 620 12 60;Privada;40,636213;-3,508316;19;3;0;16;0
-Casablanca Griñón;Avenida Albéniz 8;28971;Griñón;91 814 15 11;Privada;40,2222;-3,85161;60;1;0;2;0
-Residencia municipal Guadalix de la Sierra;Calle Palenque 8;28794;Guadalix de la Sierra;91 847 10 09;Pública local;40,786133;-3,693666;58;4;0;7;0
-Centro de mayores La Tejera;Calle Géminis 15 - Urb. Las Cabezuelas;28440;Guadarrama;91 849 37 57;Privada;40,653354;-4,048267;49;7;0;14;0
-Residencia geriátrica Valdepelayos 67;Calle Diego Martínez Barrio 65;28914;Leganés;91 693 00 58;Privada;40,324444;-3,779769;18;5;0;28;0
-Residencia Hermanitas de los Ancianos Desamparados;Calle Lagasca 17;28001;Madrid;91 435 10 97 / 91 431 62 01;Privada sin fin de lucro;40,42309;-3,685707;78;0;0;0;0
-Casa de Santa María;Avenida del Mediterráneo 48 - 2ª planta y 1º A y B;28007;Madrid;91 551 60 31 / 91 551 30 18;Privada;40,406326;-3,669085;24;20;0;83;0
-Sanitas Residencial Jardines de Sabatini;Calle Arriaza 16;28008;Madrid;900 81 82 65;Privada;40,421738;-3,716249;75;13;0;17;0
-Residencia de ancianos Santa Teresa y San José;Plaza de España 14;28008;Madrid;91 541 29 96;Privada;40,423673;-3,713186;24;7;0;29;0
-Sanitas Residencial Ferraz;Calle Ferraz 92;28008;Madrid;91 544 22 48;Privada;40,430492;-3,721402;73;19;0;26;0
-Ballesol Francisco de Rojas;Calle Francisco de Rojas 4;28010;Madrid;91 446 42 05;Privada;40,428637;-3,699442;123;15;0;12;0
-Ballesol Olavide;Calle Juan de Austria 9;28010;Madrid;91 447 52 56;Privada;40,432481;-3,699488;179;1;0;1;0
-Residencia para mayores Madrid Sur;Calle Javier de Miguel 42;28018;Madrid;91 380 78 70;Pública autonómica;40,387566;-3,660302;140;2;0;1;0
-Residencia Ardales;Calle Ardales 4;28023;Madrid;91 357 21 41;Privada;40,460262;-3,782895;17;9;0;53;0
-Sagrada Familia;Calle Villaviciosa 24;28024;Madrid;91 518 26 40;Privada;40,397662;-3,769367;67;7;0;10;0
-Residencia de 3ª edad Vuestra Casa I;Calle Roma 16 - 18;28028;Madrid;91 355 24 71;Privada;40,430989;-3,666191;29;3;0;10;0
-Clínica Geriátrica Imbea - Morejón, S. A.;Calle Menéndez Pidal 25;28036;Madrid;91 359 56 00;Privada;40,463096;-3,681242;30;1;0;3;0
-Residencia Justo Dorado;Calle Pedro Justo Dorado 5;28040;Madrid;91 535 86 20;Privada;40,448566;-3,712219;54;0;0;0;0
-Residencia Fundación Sagrada Familia;Calle Ulises 60;28043;Madrid;91 388 41 19;Privada;40,458315;-3,651033;35;9;0;26;0
-Residencia Virgen de la Paloma;Calle Árbol del Cielo 38;28044;Madrid;91 706 31 33;Privada;40,379659;-3,763995;11;2;0;18;0
-Residencia de 3ª edad Santa María del Sagrario;Plaza de la Emperatriz 12;28044;Madrid;91 508 69 41;Privada;40,373606;-3,751338;41;0;0;0;0
-Residencia de 3ª edad Comunidad Marías;Avenida Nuestra Señora de Fátima 100 - 3º;28047;Madrid;91 461 77 06;Privada sin fin de lucro;40,379501;-3,748957;10;8;0;80;0
-Casa de ancianos Hermanitas de los Pobres;Calle Virgen del Espino 1;28460;Molinos (Los);91 855 16 80;Privada sin fin de lucro;40,707672;-4,083757;36;12;0;33;0
-Residencia Nuestra Señora del Sagrario;Avenida de Arroyomolinos 3;28950;Moraleja de Enmedio;91 609 40 09 / 91 609 40 12;Privada;40,259947;-3,864408;80;39;0;49;0
-Residencia de 3ª edad Alameda Coímbra;Calle Eucalipto 10;28935;Móstoles;91 647 85 33;Privada;40,310183;-3,924941;28;0;0;0;0
-Residencia Las Camelias;Avenida Olímpica 36 - El Soto;28935;Móstoles;91 613 23 81;Privada;40,329208;-3,882831;231;0;0;0;0
-Residencia para personas mayores de Móstoles;Calle Juan XXIII 6;28938;Móstoles;91 664 76 67;Pública local;40,320291;-3,865316;35;2;0;6;0
-Residencia de Navalcarnero;Avenida Víctimas del Terrorismo s/n;28600;Navalcarnero;91 811 15 11;Pública autonómica;40,294593;-3,996781;120;56;0;47;0
-Residencia de 3ª edad Ermita;Calle Orquídea 5;28981;Parla;91 699 93 99;Privada;40,234486;-3,773634;30;19;0;63;0
-Residencia San Miguel;Paseo de la Ermita 28;28723;Pedrezuela;91 843 48 65;Privada;40,743901;-3,599472;42;5;0;12;0
-Residencia Las Fuentes;Calle Fuente 44;28723;Pedrezuela;91 843 37 80;Privada;40,746364;-3,600592;95;6;0;6;0
-Centro de mayores El Chaflán;Calle Marcial Llorente 47;28696;Pelayos de la Presa;91 864 42 00;Privada;40,358763;-4,334775;28;15;0;54;0
-La Atalaya;Camino de Alcorcón 2;28223;Pozuelo de Alarcón;91 352 14 45;Privada sin fin de lucro;40,432934;-3,813851;42;3;0;7;0
-Residencia La Salud;Calle Manuel Roses 13;28223;Pozuelo de Alarcón;91 711 00 25 / 91 711 85 16;Privada;40,406988;-3,779266;44;1;0;2;0
-Residencia de 3ª edad Malvarrosa;Calle Pío Milla Andrés 33;28223;Pozuelo de Alarcón;91 518 14 64 / 91 502 27 73;Privada;40,402401;-3,77835;17;1;0;6;0
-AMAVIR Pozuelo;Paseo de las Naciones 1;28224;Pozuelo de Alarcón;91 799 13 92 / 902 10 09 99;Privada;40,438527;-3,805132;180;6;0;3;0
-Residencia municipal de Robledillo de la Jara;Calle Fuente 5;28194;Robledillo de la Jara;91 868 72 38;Pública local;40,953931;-3,525083;13;5;0;38;0
-Vitalia Las Rozas;Calle Chile 16;28290;Rozas de Madrid (Las);91 630 47 00;Privada;40,542725;-3,9043;246;0;0;0;0
-Orpea San Fernando;Calle Vergara 13;28830;San Fernando de Henares;91 485 02 82;Pública local;40,420639;-3,529463;140;0;0;0;0
-Centro Residencial para Mayores Años Dorados;Calle Los Cerezos 4;28703;San Sebastián de los Reyes;91 654 44 07;Privada;40,545641;-3,619411;48;1;0;2;0
-Residencia Soto Fresnos;Avenida de España 11;28791;Soto del Real;91 848 05 10;Privada;40,753599;-3,790157;111;31;0;28;0
-Residencia de 3ª edad Los Pinos;Avenida Calderón de la Barca 1 - Urb. Silillos;28150;Valdetorres de Jarama;91 841 57 02;Privada;40,682137;-3,524492;21;3;0;14;0
-Residencia de 3ª edad San Miguel;Calle Reyes Magos 27;28810;Villalbilla;91 885 02 81;Privada;40,433291;-3,305171;34;31;0;91;0
-Villa Victoria Residencia;Paseo de la Estación 6;28610;Villamanta;91 813 65 32;Privada;40,297545;-4,111879;19;0;0;0;0
-Residencia San Carlos del Bosque;Calle Jalón 20;28670;Villaviciosa de Odón;91 616 83 80 / 91 616 85 77;Privada;40,377247;-3,941107;30;20;0;67;0
+Nombre;Dirección;Código Postal;Municipio;Teléfono;Titularidad;Latitud;Longitud;Número plazas;Número casos confirmados;Número fallecidos
+Residencia de personas mayores Colmenar Viejo;Avenida de los Remedios 28;28770;Colmenar Viejo;91 847 40 00;Pública autonómica;40,675093;-3,76996;393;200;173
+Residencia Santiago Rusiñol;Plaza Doctor González Bueno 16;28300;Aranjuez;91 891 14 40;Pública autonómica;40,036859;-3,592327;464;398;140
+Residencia Las Rozas - Reina Sofía;Carretera de A Coruña Km. 21.5;28232;Rozas de Madrid (Las);91 637 40 12;Pública autonómica;40,517179;-3,885358;504;303;102
+Riosalud;Camino Real 2 - Urb. Molino de la Hoz;28232;Rozas de Madrid (Las);91 630 20 13;Privada;40,531967;-3,94341;300;261;86
+Ballesol Alcalá de Henares;Calle Octavio Paz 21;28806;Alcalá de Henares;91 802 92 12 / 91 830 10 09;Privada;40,50207;-3,367425;260;125;84
+Residencia de personas mayores Arganda del Rey;Avenida del Instituto s/n;28500;Arganda del Rey;91 871 33 00;Pública autonómica;40,2877;-3,43817;449;161;78
+Residencia Los Nogales Pontones;Calle Cobo de Segovia 4;28005;Madrid;91 364 43 48;Privada;40,406924;-3,719561;260;218;77
+Los Nogales Santa Eugenia;Calle Zazúar 15;28031;Madrid;91 305 29 90;Privada;40,381994;-3,607401;286;190;77
+DomusVi Real Deleite;Paseo del Deleite 3;28300;Aranjuez;91 891 02 36;Privada;40,025948;-3,610572;268;170;68
+Ballesol Príncipe de Vergara;Calle Cartagena 133;28002;Madrid;91 411 99 30;Privada;40,443538;-3,676885;302;209;65
+Orpea San Blas;Calle Zurich 16;28022;Madrid;91 775 99 91;Privada;40,422658;-3,603967;180;142;63
+GERIASA Brunete;Calle Eras 39;28690;Brunete;91 815 83 00;Privada;40,403493;-4,003612;248;149;61
+Centro Residencial Sanitas Colmenar Viejo;Paseo Magdalena 2;28770;Colmenar Viejo;91 848 42 73;Privada;40,653031;-3,772931;202;45;60
+Residencia de personas mayores Parque Coímbra;Avenida de los Sauces 55;28935;Móstoles;91 646 18 93;Pública autonómica;40,3082;-3,93185;220;129;60
+Sanitas Residencial La Moraleja;Avenida La Vega 20;28108;Alcobendas;91 490 37 70;Privada;40,534613;-3,633549;126;70;59
+Ballesol Pasillo Verde;Calle Amaltea 25;28045;Madrid;91 506 22 70;Privada;40,396975;-3,685883;278;149;59
+Ecoplar Aravaca;Calle Blanca de Castilla 8;28023;Madrid;91 740 05 66;Privada;40,464743;-3,783695;200;148;58
+Orpea Pinto II;Camino de San Martín de la Vega 5;28320;Pinto;91 692 69 60;Privada;40,241046;-3,69061;144;78;56
+Residencia de personas mayores Villaviciosa de Odón;Carretera de San Martín de Valdeiglesias Km. 11.200;28670;Villaviciosa de Odón;91 647 73 18 / 91 616 73 18;Pública autonómica;40,3692;-3,93892;322;113;56
+DomusVi Leganés;Calle César García Contonente 6;28914;Leganés;91 648 42 53;Privada;40,321169;-3,784687;180;166;55
+Centro Residencial Sanitas El Escorial;Calle Nueve 9;28280;Escorial (El);91 853 35 33;Privada;40,603854;-4,052666;169;151;54
+Centro Asistencial GEROINNOVA MIRAMADRID;Calle Gaspar de Morales 1;28860;Paracuellos de Jarama;91 230 42 00;Privada;40,502456;-3,513028;170;131;53
+Residencia Los Nogales Puerta de Hierro;Calle César Manrique 11;28035;Madrid;91 789 20 09;Privada;40,474177;-3,721053;220;137;52
+Residencia de 3ª edad Las Matas;Calle Monte 11 - Urb. Las Matas;28290;Rozas de Madrid (Las);91 630 10 29;Privada;40,560842;-3,897475;177;158;50
+Nuestra Señora de Butarque;Calle Delco 10 - Ciudad del Automóvil;28914;Leganés;91 693 85 13;Privada;40,318524;-3,759414;180;167;49
+Residencia de mayores de Manoteras;Calle Oña 3;28050;Madrid;91 766 52 22;Pública autonómica;40,489006;-3,668342;300;163;49
+Residencia Valle de la Oliva;Calle Manuel de Falla 35;28222;Majadahonda;91 679 99 63;Pública local;40,452309;-3,876877;130;90;48
+Residencia de personas mayores Villa del Prado;Paseo de la Estación 2;28630;Villa del Prado;91 862 22 01;Pública autonómica;40,274219;-4,300819;120;25;48
+Residencia de personas mayores de Vallecas;Calle Benjamín Palencia 25;28038;Madrid;91 779 14 40;Pública autonómica;40,394523;-3,647456;173;128;47
+Residencia Ecoplar Griñón-Serranillos;Calle Retama 2;28979;Serranillos del Valle;91 813 81 38;Privada;40,20901;-3,870049;120;111;47
+Residencia Militar de Acción Social de Atención a Mayores Virgen del Carmen;Camino de los Ingenieros 2;28047;Madrid;91 364 60 00;Pública estatal;40,387745;-3,745867;160;112;46
+Residencia de 3ª edad Magán;Calle Miguel Delibes s/n;28991;Torrejón de la Calzada;91 810 61 15;Privada;40,1937;-3,80519;140;112;46
+Residencia asistida San Camilo;Calle Sector Escultores 39;28760;Tres Cantos;91 803 40 00;Privada sin fin de lucro;40,615365;-3,712755;172;93;46
+Sanitas Residencial La Florida;Calle Valle de Toranzo 3 - 5;28023;Madrid;91 740 03 86;Privada;40,468003;-3,795599;130;95;44
+Orpea La Moraleja;Carretera de Burgos Km. 14 - Urb. Cuesta Blanca;28108;Alcobendas;91 650 89 10;Privada;40,5199;-3,65364;132;105;43
+Centro Residencial Sanitas Carabanchel;Calle Antonia Rodríguez Sacristán 10;28044;Madrid;91 508 11 10;Privada;40,37275;-3,74463;224;123;43
+Pisos tutelados para mayores;Avenida de los Fresnos 11;28850;Torrejón de Ardoz;91 343 68 02;Pública autonómica;40,445189;-3,47119;240;147;43
+AMAVIR Arganzuela;Calle Embajadores 211;28045;Madrid;91 506 23 56;Privada;40,386048;-3,689044;180;97;42
+Orpea Collado Villalba;Avenida de Moralzarzal s/n;28400;Collado Villalba;91 849 78 60;Privada;40,644209;-3,995874;181;146;38
+Residencia Fátima;Calle Procesiones 44 - 48;28260;Galapagar;91 858 42 40 / 91 858 44 36;Privada;40,574217;-4,00327;96;28;37
+Caser Residencial Santa Hortensia;Calle Santa Hortensia 46;28002;Madrid;91 510 68 10;Privada;40,444472;-3,663072;184;140;37
+Alba San Lorenzo;Calle Mariano Sainz 1;28200;San Lorenzo de El Escorial;91 890 08 83;Privada;40,5941;-4,14307;182;136;37
+Ballesol Alcobendas;Calle Ramón y Cajal 1;28100;Alcobendas;91 662 50 87;Privada;40,540987;-3,649774;154;107;36
+Residencia Montehermoso Camorritos;Carretera de Camorritos s/n;28470;Cercedilla;91 852 25 50;Privada;40,756571;-4,052788;159;112;36
+Residencia para mayores Mirasierra;Calle Portera del Cura 1;28034;Madrid;91 734 14 10 / 91 734 16 26 / 91 734 08 76;Pública autonómica;40,4908;-3,71436;220;148;36
+Residencia Santísima Virgen y San Celedonio;Calle Condes de Val 11;28036;Madrid;91 457 19 60;Privada;40,456673;-3,683326;164;130;36
+Centro Tercera Edad San Luis Gonzaga;Calle Mar Egeo 51;28221;Majadahonda;91 634 00 76;Privada;40,462636;-3,86466;202;157;35
+DomusVi Valdemoro;Paseo Juncarejo 2 - Urb. El Restón;28341;Valdemoro;91 808 59 80;Privada;40,1852;-3,67761;180;82;35
+Casaverde Navalcarnero;Calle José María López Malla 3;28600;Navalcarnero;91 811 24 93;Privada;40,286425;-4,006576;112;78;34
+Residencia Los Nogales - Imperial;Calle Santa María Real de Nieva s/n;28005;Madrid;91 364 82 55;Privada;40,405522;-3,716593;252;74;33
+Albertia Moratalaz;Calle Hacienda de Pavones 261;28030;Madrid;91 324 68 00;Privada;40,399677;-3,630679;190;129;33
+Residencia de personas mayores Francisco de Vitoria;Calle Villamalea 1;28805;Alcalá de Henares;91 889 30 50;Pública autonómica;40,508024;-3,357504;513;137;32
+Residencia Gastón Baquero;Calle Francisco Chico Mendes 8;28108;Alcobendas;91 661 71 91 / 91 661 28 76;Pública autonómica;40,522077;-3,652882;201;75;31
+Alba 2 Residencia Geriátrica;Calle Viñuelas 2;28863;Cobeña;91 620 87 54;Privada;40,569196;-3,498821;128;74;31
+Residencia Nuestra Señora del Carmen;Carretera Cantoblanco 3;28049;Madrid;91 734 34 50;Pública autonómica;40,539094;-3,694235;422;92;31
+Orpea Torrelodones;Avenida Rosario Manzaneque 19;28250;Torrelodones;91 856 90 90;Privada;40,583964;-3,953036;156;65;31
+Residencia de personas mayores Alcorcón;Avenida Esteban Márquez 2;28922;Alcorcón;91 644 13 00 / 91 682 42 47;Pública autonómica;40,340447;-3,842068;218;84;30
+Residencia para mayores Parque los Frailes;Calle los Frailes 12;28914;Leganés;91 693 40 00;Pública autonómica;40,317781;-3,772798;220;103;30
+Residencia Santa Matilde;Calle Santa Matilde 7;28039;Madrid;91 450 82 82;Privada;40,449996;-3,70812;77;61;30
+Residencia de ancianos Virgen de la Antigua - Fundación Mac-Crohon;Calle Asilo 2;28530;Morata de Tajuña;91 873 00 54;Privada;40,227415;-3,43646;98;70;30
+Residencia Rafael Alberti;Calle Pirineos 55;28040;Madrid;91 144 06 34;Privada;40,453887;-3,719232;100;74;29
+Residencia El Encinar;Calle Constitución de Cádiz 5;28914;Leganés;91 694 41 61;Pública autonómica;40,321911;-3,762064;132;76;28
+Residencia Monte Hermoso;Calle Doctor Blanco Nájera 6;28011;Madrid;91 526 75 85;Privada;40,409007;-3,743019;130;114;28
+AMAVIR Valdebernardo;Calle Ladera de los Almendros 44;28032;Madrid;91 301 66 60;Privada;40,396413;-3,626149;180;75;28
+AMAVIR Puente de Vallecas;Calle Baltasar Santos 2;28038;Madrid;91 328 70 70;Privada;40,402346;-3,658811;180;88;28
+Orpea Las Rozas;Calle Clara Campoamor 2;28232;Rozas de Madrid (Las);91 710 59 37;Privada;40,505346;-3,879865;180;93;28
+Centro San Juan de Dios;Avenida San Juan de Dios 1;28350;Ciempozuelos;91 893 00 01;Privada sin fin de lucro;40,160069;-3,61456;234;76;27
+Orpea Alcobendas;Avenida Miguel de Cervantes 3;28100;Alcobendas;91 490 06 78;Privada;40,549784;-3,650733;180;56;26
+Residencia de mayores Madrid - Peñuelas;Calle Arganda 9 - 11;28005;Madrid;91 506 05 96;Pública autonómica;40,400993;-3,706638;220;167;26
+Residencia Montserrat Caballé;Calle Bahía de Santa Pola 2;28042;Madrid;91 748 15 52;Privada sin fin de lucro;40,466261;-3,590649;136;70;26
+Vitalia Parla;Calle Fernando III El Santo 17;28982;Parla;91 283 01 90;Privada;40,23244;-3,767879;165;97;26
+Residencia de 3ª edad San Juan de Dios;Carretera de Navalcarnero - Chinchón Km. 5;28607;Álamo (El);91 812 14 14;Privada;40,2374;-3,99384;303;180;25
+AMAVIR Coslada;Avenida España 130;28822;Coslada;91 673 30 65;Privada;40,420903;-3,553158;180;160;25
+Residencia de personas mayores Alzheimer Getafe;Avenida Francisco Fernández Ordóñez 2;28903;Getafe;91 665 25 10;Pública autonómica;40,31708;-3,717148;70;62;25
+Orpea Madrid Sanchinarro;Calle Padres Dominicos 2;28050;Madrid;91 750 21 38;Privada;40,50194;-3,656316;180;72;25
+AMAVIR Torrejón de Ardoz;Calle Francia 6;28850;Torrejón de Ardoz;91 627 77 00;Privada;40,457387;-3,451723;180;93;25
+Residencia de ancianos San Juan Bautista;Carretera Comarcal 507 Km. 22 - Finca El Rincón;28620;Aldea del Fresno;91 862 10 45 / 91 864 90 01;Privada;40,305789;-4,253379;84;65;24
+AMAVIR Cenicientos;Calle San Sebastián 13;28650;Cenicientos;91 860 09 00;Privada;40,259689;-4,461493;82;67;24
+Sanitas Residencial Guadarrama;Paseo de la Alameda 8;28440;Guadarrama;91 854 38 93;Privada;40,675645;-4,094051;170;50;24
+DomusVi Albufera;Calle Sierra Alcubierre 8;28053;Madrid;91 757 05 10;Privada;40,39179;-3,667929;143;60;24
+DomusVi Ciudad de Móstoles;Calle Río Segura 29;28935;Móstoles;91 648 01 46;Privada;40,310454;-3,87891;180;95;24
+Residencia de 3ª edad La Asunción;Paseo de la Estación 18;28600;Navalcarnero;91 811 12 12;Privada;40,293394;-4,010097;78;57;24
+Residencia de personas mayores San Fernando de Henares;Calle Ventura de Argumosa 4;28830;San Fernando de Henares;91 674 62 00;Pública autonómica;40,427991;-3,531295;120;83;24
+Casablanca Valdemoro;Calle Aragón 2;28341;Valdemoro;91 801 83 60;Privada;40,1862;-3,68675;160;123;24
+AMAVIR Alcorcón;Calle Gabriela Mistral 4;28922;Alcorcón;91 512 72 00;Privada;40,335797;-3,828116;180;71;23
+Los Nogales Reina Victoria;Calle Juan Montalvo 20 - 22;28040;Madrid;91 534 60 00;Privada;40,447533;-3,710797;98;47;23
+Centro Residencial Sanitas Alcorcón;Avenida de Polvoranca s/n;28923;Alcorcón;91 643 71 86;Privada;40,340788;-3,815432;144;66;22
+AMAVIR Colmenar;Calle Mosquilona 65;28770;Colmenar Viejo;91 845 98 08;Privada;40,664217;-3,777631;180;100;22
+Residencia de mayores Dos de Mayo;Calle Daoiz 8;28004;Madrid;91 360 48 31;Privada;40,427099;-3,705317;60;54;22
+Residencia Manuel Herranz;Calle García Martín 25;28224;Pozuelo de Alarcón;91 352 19 45;Privada sin fin de lucro;40,448068;-3,796783;84;59;22
+Residencia municipal Nuestra Señora del Rosario;Calle Lili Álvarez 3;28342;Valdemoro;91 876 26 58;Pública local;40,19543;-3,690404;134;123;22
+Residencia Los Nogales - Pacífico;Calle Cerro de la Plata 3;28007;Madrid;91 434 19 40;Privada;40,399989;-3,674735;441;53;21
+Residencia de personas mayores San José;Calle Trévelez 1;28041;Madrid;91 317 54 67 / 91 317 54 68;Pública autonómica;40,365148;-3,702439;48;44;21
+Residencia Isla de Taray;Carretera de Morata - Perales de Tajuña Km. 3.3;28530;Morata de Tajuña;91 873 13 28;Privada sin fin de lucro;40,2309;-3,40223;214;72;21
+Residencia La Torre;Calle del Carmen 37;28530;Morata de Tajuña;91 873 01 71 / 91 873 03 64;Privada;40,225087;-3,437335;88;57;21
+Residencia Dolores Soria;Calle Joaquín Turina 2;28320;Pinto;608 81 09 70;Pública local;40,256742;-3,6989;60;15;21
+Residencia Los Cortijos;Calle Carril Antiguo 20;28609;Sevilla la Nueva;91 812 96 64;Privada;40,349122;-4,060583;57;32;21
+Residencia San José;Calle Teniente Ortiz de Zárate 56;28370;Chinchón;91 894 00 39;Privada;40,141864;-3,416616;80;51;20
+Residencia Fundación Sagrada Familia;Calle Isidro Dompablo 10;28035;Madrid;91 316 65 66;Privada;40,46405;-3,723723;46;40;20
+Orpea El Escorial;Calle Luis de Cervera Vera 1 - Urb. Las Pozas;28200;San Lorenzo de El Escorial;91 899 73 04;Privada;40,603723;-4,131542;180;44;20
+Centro de Mayores MIAL Salud;Avenida de los Pinares 2;28250;Torrelodones;91 630 85 81;Privada;40,568445;-3,895831;174;50;20
+Caser Residencial La Moraleja;Calle Salvia 133;28109;Alcobendas;91 659 73 02;Privada;40,529931;-3,63244;295;82;19
+Residencia de 3ª edad Santa Justa;Camino de Fregacedos 2;28942;Fuenlabrada;91 600 20 30;Privada;40,290436;-3,812459;54;45;19
+Los Nogales Vista Alegre;Calle Vista Alegre 4 - 6;28019;Madrid;91 472 00 20;Privada;40,389956;-3,732051;98;68;19
+Centro Clínico Geriátrico Pinar de Aravaca;Calle Camarines 2;28023;Madrid;91 307 07 07;Privada;40,461227;-3,769417;119;105;19
+Centro Alzheimer Fundación Reina Sofía;Calle Valderrebollo 5;28031;Madrid;91 385 23 00;Pública autonómica;40,372675;-3,627503;156;54;19
+Los Nogales Hortaleza;Calle Alcobendas 12;28033;Madrid;91 863 64 58;Privada;40,475764;-3,642139;365;38;19
+Casablanca Rivas;Calle Goya 21;28521;Rivas-Vaciamadrid;91 499 77 38;Privada;40,337671;-3,522267;104;64;19
+Residencia GERIATEL Rivas;Paseo de las Provincias 1;28523;Rivas-Vaciamadrid;91 192 21 35;Privada;40,375053;-3,534443;112;51;19
+Las Golondrinas;Calle Miguel de Cervantes 40;28294;Robledo de Chavela;91 899 85 41;Privada;40,520821;-4,253372;58;38;19
+Primar II Centro Geriátrico;Avenida de Madrid s/n;28160;Talamanca de Jarama;91 841 77 35;Privada;40,743533;-3,508533;277;39;19
+Ballesol Tres Cantos;Calle Panaderos s/n (Sector Oficios 41);28760;Tres Cantos;91 804 71 92;Privada;40,605339;-3,713818;180;52;19
+Orpea Santo Domingo;Callejón de las Terrazas s/n;28120;Algete;91 622 02 32;Privada;40,625652;-3,581868;150;81;18
+Residencia para mayores El Escorial;Calle Arias Montano 12;28280;Escorial (El);91 890 13 61;Privada;40,586443;-4,128244;60;39;18
+Residencia Galdama Fuenlabrada;Calle Villa Elena 21;28944;Fuenlabrada;91 615 42 61;Privada;40,280184;-3,770671;175;156;18
+Sanitas Residencial Getafe;Avenida Arcas del Agua 15;28905;Getafe;91 696 55 67;Privada;40,29041;-3,74782;196;47;18
+AMAVIR Getafe;Calle Islas Canarias 162;28905;Getafe;91 481 94 00;Privada;40,2897;-3,758479;180;77;18
+Centro Geriátrico Hortaleza;Calle de las Pedroñeras 38;28043;Madrid;91 388 41 55 / 652 91 91 45;Privada;40,466281;-3,630633;96;51;18
+Centro residencial Juan Pablo II;Carretera Comarcal 501 Km. 57;28680;San Martín de Valdeiglesias;91 861 14 06;Privada;40,358754;-4,387533;182;71;18
+Galdama Algete;Camino de Valderrey s/n (esq. C/ Luis de Góngora);28110;Algete;91 628 93 57;Privada;40,600652;-3,499469;90;48;17
+Residencia San Juan de Dios;Calle Herreros de Tejada 3;28016;Madrid;91 344 00 20;Privada sin fin de lucro;40,453459;-3,68198;49;39;17
+Residencia Isabel La Católica;Calle Joaquín Dicenta 27;28029;Madrid;91 732 18 80;Pública autonómica;40,472132;-3,694871;218;49;17
+Centro residencial Valmonte;Calle Romero Girón 9;28036;Madrid;91 458 48 00;Privada;40,45668;-3,6832;140;72;17
+Sanitas Residencial Alameda;Paseo Alameda de Osuna 78 - B;28042;Madrid;91 747 45 04;Privada;40,459641;-3,587407;118;36;17
+Residencia municipal de mayores de AMAVIR Patones;Calle Canal de Isabel II 23;28189;Patones;91 843 21 50;Pública local;40,851707;-3,487649;90;36;17
+Residencia Real de Rozas;Carretera de Entrepinos s/n;28649;Rozas de Puerto Real;91 863 44 79;Privada;40,308067;-4,48554;52;41;17
+DomusVi Alcalá de Henares;Avenida Miguel de Unamuno 5;28806;Alcalá de Henares;91 830 35 52;Privada;40,497;-3,37385;180;53;16
+SERGESA Boadilla del Monte;Calle Severo Ochoa 8;28660;Boadilla del Monte;91 495 28 60;Privada;40,407051;-3,893927;180;45;16
+Residencia para mayores AMAVIR Nuestra Casa;Calle Águedas 1;28400;Collado Villalba;91 849 38 54;Pública autonómica;40,6428;-4,00176;140;76;16
+Sanitas Residencial El Viso;Calle Rodríguez Marín 57;28002;Madrid;91 561 23 32;Privada;40,449811;-3,678808;102;56;16
+Residencia Padre Eladio;Calle Islas Bikini 6;28035;Madrid;91 373 37 67;Privada sin fin de lucro;40,475157;-3,727505;65;35;16
+Casaverde Vilamanta;Carretera de Cadalso de los Vidrios Km. 9.6;28610;Villamanta;91 813 63 35 / 91 813 62 26;Privada;40,297911;-4,120028;67;35;16
+Hogar Residencia San Luis de los Franceses;Calle Claudio Coello 94;28006;Madrid;91 431 28 00;Privada;40,432062;-3,68568;70;42;15
+GERIASA;Calle Doctor Esquerdo 63;28007;Madrid;91 557 22 30 / 669 40 18 90 / 669 40 18 89;Privada;40,419481;-3,668867;185;99;15
+Residencia Virgen de la Nueva;Calle Manuel Carvajal 14;28680;San Martín de Valdeiglesias;91 861 19 96;Privada;40,360707;-4,405366;114;77;15
+Residencia de ancianos Santa María de los Ángeles;Calle Monte Cristina 6;28250;Torrelodones;91 859 03 77 / 91 859 38 41 / 91 859 03 77;Privada;40,5835;-3,9578;33;2;15
+Residencia Gladiolos;Calle Gladiolos 5 - Colonia de San Crispín;28770;Colmenar Viejo;91 845 20 17;Privada;40,64916;-3,780773;74;59;14
+Residencia La Jarosa;Paseo de la Alameda 7;28440;Guadarrama;91 854 08 49;Privada;40,674911;-4,09324;50;29;14
+Residencia Gravina;Calle Gravina 20;28004;Madrid;91 523 03 12;Privada;40,422595;-3,69628;55;42;14
+AMAVIR Usera;Avenida La Perla 3;28041;Madrid;91 500 55 50;Privada;40,373175;-3,69411;180;33;14
+Residencia de ancianos Don Bosco;Calle Playa de Riazor 39;28042;Madrid;91 305 50 87;Privada sin fin de lucro;40,476049;-3,586676;62;38;14
+Residencia Isla de Kos;Avenida de Madrid 8;28710;Molar (El);91 841 08 12;Privada;40,730741;-3,582476;90;56;14
+Centro Residencial Sanitas Torrelodones;Calle Álamo 2;28250;Torrelodones;91 854 91 20;Privada;40,586409;-3,921128;143;110;14
+Residencia municipal Miralrío;Avenida de Madrid 39;28730;Buitrago del Lozoya;91 868 02 90;Privada;40,990195;-3,638099;44;30;13
+Residencia Nuestra Señora de la Soledad y del Carmen;Calle Soledad 52;28770;Colmenar Viejo;91 845 15 23;Privada;40,658362;-3,761569;82;29;13
+Residencia de 3ª edad Los Ángeles;Calle Valle del Alberche 22;28440;Guadarrama;91 850 88 42;Privada;40,648681;-4,04453;67;27;13
+Residencia para la 3ª edad Virgen de Regla 3E;Calle Prados Quemados 10;28752;Lozoyuela-Navas-Sieteiglesias;91 869 88 99 / 91 869 40 30 / 638 84 02 40;Privada;40,930333;-3,626284;46;32;13
+Residencia de 3ª edad Años Dorados III;Calle Agustín Calvo 19;28043;Madrid;91 388 22 62 / 91 388 05 48;Privada;40,464132;-3,650151;36;22;13
+Orpea Madrid Buenavista;Calle Antonia Rodríguez Sacristán 14;28044;Madrid;91 511 04 20;Privada;40,372854;-3,742862;196;149;13
+Orpea Meco;Calle Roble 11;28880;Meco;91 886 16 66;Privada;40,548354;-3,326857;147;38;13
+Residencia Bellas Vistas Moralzarzal;Calle El Gamonal 3;28411;Moralzarzal;91 857 41 54;Privada;40,707435;-3,955607;48;32;13
+Residencia municipal Mariana de Austria;Calle La Doctora 8;28600;Navalcarnero;91 810 11 50;Pública local;40,289954;-4,01423;45;26;13
+Residencias Los Jardines de Navas;Calle Sandro Pertini 8;28695;Navas del Rey;91 865 03 11;Privada;40,383345;-4,241357;40;33;13
+Residencia de mayores Los Ángeles;Avenida de los Ébanos 65;28903;Getafe;91 696 11 91;Privada;40,32102;-3,715585;180;66;12
+Fundación Residencia San Francisco de Paula;Calle Valdebernardo 29;28030;Madrid;91 371 01 58;Privada;40,4017;-3,631745;74;44;12
+Los Robles Gerhoteles Madrid;Calle Duquesa de Castrejón 19;28033;Madrid;91 744 52 80;Privada;40,464004;-3,660197;170;29;12
+Pisos tutelados para personas mayores;Calle Baltasar Santos 6;28038;Madrid;91 430 38 81;Pública autonómica;40,401912;-3,657431;45;35;12
+Orpea Madrid Carabanchel;Calle Nuestra Señora de la Luz 74;28047;Madrid;91 422 08 80;Privada;40,385279;-3,748959;160;73;12
+Residencia municipal El Perpetuo Socorro;Calle Crucero s/n;28792;Miraflores de la Sierra;91 844 33 55;Pública local;40,811;-3,76246;28;25;12
+Fundación San Diego y San Nicolás;Avenida de Majadahonda 4;28223;Pozuelo de Alarcón;91 352 07 44 / 91 352 07 45;Privada;40,436853;-3,821918;96;68;12
+Residencia para mayores Rosario;Calle Palmeras 3;28813;Torres de la Alameda;91 886 30 61;Pública local;40,397834;-3,359528;112;98;12
+Residencia La Edad de Oro;Avenida Príncipe de Asturias 1;28607;Álamo (El);91 812 22 85;Privada;40,236131;-3,991305;111;74;11
+Residencia Maravillas;Paseo de la Castellana 6;28640;Cadalso de los Vidrios;91 864 00 81;Privada;40,301421;-4,434597;112;60;11
+AMAVIR Humanes;Avenida de los Deportes 14;28970;Humanes de Madrid;91 604 05 32;Privada;40,246491;-3,815737;180;26;11
+Ballesol Majadahonda;Calle Cierzo 7 - Colonia Airesol I;28221;Majadahonda;91 639 56 11;Privada;40,479588;-3,859243;133;61;11
+Residencia La Aurora;Paseo Don Miguel de Ribagorda Gómez 1;28600;Navalcarnero;91 811 11 64;Privada;40,2943;-4,01007;177;29;11
+Orpea Pinto I;Calle San Martín 20;28320;Pinto;91 692 86 30;Privada;40,240875;-3,694609;160;24;11
+Ballesol Pozuelo;Calle Arquitectura 116 - 118;28224;Pozuelo de Alarcón;91 352 55 20 / 91 352 40 79;Privada;40,451626;-3,809275;257;165;11
+Sanitas Residencial Las Rozas;Avenida de Atenas 5;28290;Rozas de Madrid (Las);91 631 92 71;Privada;40,533736;-3,903171;133;38;11
+DomusVi Parque Coslada;Calle Manuel Azaña 5;28822;Coslada;91 673 01 00;Privada;40,419579;-3,553665;142;28;10
+Caim Los Olivos;Calle Félix Rodríguez de la Fuente 2;28140;Fuente el Saz de Jarama;91 620 07 69;Privada;40,635365;-3,512233;67;38;10
+Residencia de personas mayores Vista Alegre;Calle General Ricardos 177;28025;Madrid;91 462 94 14;Pública autonómica;40,383731;-3,739105;204;39;10
+Residencia Sagrada Familia;Calle Manuel Nieto 1;28035;Madrid;91 316 05 42 / 91 386 20 65;Privada;40,468399;-3,725035;30;27;10
+Hogar Santa Teresa Jornet;Calle Duquesa de Tamames 8;28044;Madrid;91 508 91 08 / 91 508 58 49;Privada sin fin de lucro;40,372459;-3,749811;143;52;10
+Residencia municipal Nazaret;Calle Cruces 2;28190;Montejo de la Sierra;91 869 72 80;Pública local;41,060158;-3,529068;58;46;10
+Residencia de 3ª edad Navas del Rey;Calle Aparejador Pedro de Tolosa 1;28695;Navas del Rey;91 865 03 80 / 91 865 03 95;Privada;40,387586;-4,251209;28;21;10
+Residencia de 3ª edad Peñas Albas;Avenida de España 4 - Urb. Peñas Albas;28810;Villalbilla;91 879 24 13;Privada;40,449708;-3,364523;84;59;10
+Residencia de 3ª edad Mirasierra;Carretera Antigua de Los Molinos 11;28470;Cercedilla;91 852 03 14;Privada;40,732574;-4,066404;46;32;9
+Residencia Santa Gema;Calle Peraleda 9;28260;Galapagar;91 858 38 56;Privada;40,576019;-4,011669;55;27;9
+Centro Geriátrico Madre Maravillas;Plaza de la Iglesia 2;28909;Getafe;91 684 70 85;Privada;40,3236;-3,65622;54;25;9
+Residencia Guadarrama El Escorial;Calle Fuente del Espino 51 - Urb. Los Builes;28440;Guadarrama;91 854 35 44;Privada;40,663373;-4,092164;90;32;9
+Santa María del Monte Carmelo;Calle Ayala 33 - 35;28001;Madrid;91 435 16 60;Privada sin fin de lucro;40,427758;-3,683551;99;56;9
+Residencia de personas mayores Plata y Castañar;Paseo Plata y Castañar 38;28021;Madrid;91 798 79 12;Pública autonómica;40,3527;-3,71927;220;23;9
+Residencia Santísima Trinidad;Avenida Osa Mayor 8;28023;Madrid;91 357 22 68;Privada sin fin de lucro;40,46112;-3,774748;54;41;9
+Residencia Jesús Nazareno y los Dolores;Calle Magnolias 105;28029;Madrid;91 315 55 45 / 91 315 55 46;Privada sin fin de lucro;40,47279;-3,689911;95;25;9
+Residencia Lusanz;Calle Aurora 9;28035;Madrid;91 316 58 71;Privada;40,464681;-3,722529;22;5;9
+Residencia Nava Real;Ronda de San Juan 11;28600;Navalcarnero;91 737 20 42 / 677 34 46 20;Privada;40,290628;-4,008292;173;29;9
+Residencia geriátrica Las Praderas;Carretera de Húmera 69;28224;Pozuelo de Alarcón;91 352 00 82;Privada;40,43717;-3,800058;100;33;9
+Residencia de 3ª edad Sierra de Madrid;Calle Acero 3;28791;Soto del Real;619 24 23 33 / 91 847 62 97;Privada;40,750167;-3,784135;29;18;9
+Edalia Torrejón de Ardoz;Calle Milán 6;28850;Torrejón de Ardoz;91 655 62 93;Privada;40,463333;-3,465583;149;83;9
+Residencia Los Peñascales;Avenida del Lago 25;28250;Torrelodones;91 630 35 98;Privada;40,569141;-3,898356;127;87;9
+Residencia de 3ª edad La Alameda;Calle Miguel de Unamuno 43;28813;Torres de la Alameda;91 885 88 68;Privada;40,404214;-3,368107;146;56;9
+Residencia de personas mayores Cisneros;Avenida de Ajalvir 1;28806;Alcalá de Henares;91 880 00 15;Pública autonómica;40,489541;-3,376695;129;75;8
+Residencia El Berrueco;Calle Escuelas 1;28192;Berrueco (El);91 868 61 84;Pública autonómica;40,887092;-3,560344;110;19;8
+Residencia Marqués de Santillana;Calle Mártires 2;28730;Buitrago del Lozoya;91 868 07 86;Privada;40,995684;-3,633999;42;33;8
+Residencia Mi Casita;Calle Navamora 6;28260;Galapagar;91 858 25 18;Privada;40,569107;-3,995688;21;17;8
+Residencia Vitalia Griñón;Avenida Albéniz 2;28971;Griñón;91 860 94 99;Privada;40,221176;-3,850278;150;51;8
+Pisos tutelados para personas mayores de Leganés;Calle Braganza 3 - 5;28917;Leganés;91 481 62 40;Pública autonómica;40,357234;-3,785315;135;58;8
+Residencia de Mayores Santa Engracia;Calle Santa Engracia 118;28003;Madrid;91 990 77 20;Pública local;40,440412;-3,700792;36;12;8
+Residencia La Purísima Concepción;Avenida Ciudad de Barcelona 85;28007;Madrid;91 551 78 44 / 91 551 14 55;Privada sin fin de lucro;40,400107;-3,672762;156;32;8
+Residencia hogar San Enrique y Santa Rita;Calle Arenas y Navarro 16;28023;Madrid;91 307 93 40 / 91 307 93 41;Privada sin fin de lucro;40,469407;-3,796905;96;16;8
+Residencia La Florida;Calle Zarauz 6 - Urb. La Florida;28023;Madrid;91 372 94 98 / 91 372 90 05 / 618 31 70 28;Privada;40,470849;-3,813591;23;20;8
+Residencia y apartamentos tutelados Usera;Calle Cristo de la Victoria 247;28026;Madrid;91 330 72 00;Pública autonómica;40,378882;-3,709827;160;147;8
+Residencia El Jardín;Calle López de Hoyos 384;28043;Madrid;696 25 60 63;Privada;40,461216;-3,658991;25;19;8
+Residencia Ensanche de Vallecas;Avenida Cerro Milano 1;28051;Madrid;91 494 86 77;Pública autonómica;40,36886;-3,618639;160;19;8
+Centro para mayores Santa Isabel;Calle Valleja 30;28411;Moralzarzal;91 842 10 99;Privada;40,675421;-3,970554;48;33;8
+Residencia Casa Jardín Pozuelo;Avenida Leopoldo Calvo Sotelo Bustelo 25;28224;Pozuelo de Alarcón;619 06 04 90;Privada;40,451918;-3,796343;21;19;8
+AMAVIR San Agustín del Guadalix;Calle Halcón 1;28750;San Agustín del Guadalix;91 846 63 00;Privada;40,676006;-3,620976;180;74;8
+AMAVIR La Marina;Avenida de Cataluña 4;28703;San Sebastián de los Reyes;91 659 01 88;Privada;40,555508;-3,623579;159;121;8
+Residencia municipal Hontanar de Jarama;Calle Canal de Isabel II 38;28189;Torremocha de Jarama;91 843 10 55;Pública local;40,839352;-3,500869;98;31;8
+Residencia de 3ª edad Campodón;Calle Prado 3;28922;Alcorcón;91 616 66 96 / 91 616 10 57;Privada;40,361884;-3,87244;146;61;7
+Hotel de 3ª edad El Madroño;Calle La Perdiz 12 - La Navata;28420;Galapagar;91 858 71 04;Privada;40,593723;-3,985816;50;19;7
+Residencia mixta de 3ª edad Guadarrama;Paseo de Molino del Rey 31;28440;Guadarrama;91 854 07 83;Privada;40,667412;-4,081918;30;21;7
+Apartamentos municipales para mayores San Francisco El Grande;Calle Jerte 1;28005;Madrid;91 364 40 05;Pública local;40,410992;-3,715068;68;23;7
+Casasolar Santo Duque de Gandía;Calle Aniceto Marinas 114;28008;Madrid;91 541 62 97;Privada sin fin de lucro;40,432378;-3,734746;180;74;7
+Residencia de Personas Mayores Goya;Calle Doctor Esquerdo 26;28009;Madrid;91 276 10 00;Pública autonómica;40,424403;-3,669357;51;20;7
+AMAVIR Villaverde;Calle Berrocal 42;28021;Madrid;91 505 52 00;Privada;40,344387;-3,676679;180;24;7
+Residencia de 3ª edad Castalia;Calle Ardales 2;28023;Madrid;91 357 47 47;Privada;40,459651;-3,782958;24;20;7
+Residencia de mayores Gran Residencia;Calle General Ricardos 177;28025;Madrid;91 462 58 00;Pública autonómica;40,381984;-3,734634;460;113;7
+Residencia La Guindalera;Calle Pintor Moreno Carbonero 15;28028;Madrid;91 713 17 70;Privada sin fin de lucro;40,438689;-3,668678;56;33;7
+DomusVi Quijorna;Camino de la Charneca 25;28693;Quijorna;91 816 88 72 / 91 816 89 36;Privada;40,433307;-4,056359;110;26;7
+Urbanización de mayores;Avenida de Guadarrama s/n;28609;Sevilla la Nueva;91 812 91 44;Privada;40,3551;-4,00668;178;82;7
+Residencia para personas mayores Torrelaguna;Calle Doctor Manuel Hidalgo Huerta 12;28180;Torrelaguna;91 843 00 25;Pública autonómica;40,826876;-3,541824;94;51;7
+Residencia 3ª edad GERONTOS;Avenida de Madrid 1;28729;Venturada;91 843 94 90;Privada;40,799662;-3,625449;23;15;7
+Residencia Los Hueros;Calle Mayor 53;28810;Villalbilla;91 879 38 56 / 682 74 08 52;Privada;40,445755;-3,35112;16;8;7
+Residencia Cervantes;Calle José Caballero 1 - 3;28805;Alcalá de Henares;91 883 06 05;Privada;40,488965;-3,349827;46;28;6
+Residencia Vigor;Paseo de la Ermita 51;28490;Becerril de la Sierra;91 853 62 49;Privada;40,711257;-3,986544;51;13;6
+Residencia El Llano;Calle Cruz del Portugués 5;28370;Chinchón;91 894 13 46;Privada;40,1364;-3,41996;54;31;6
+Cobeña Inarejos;Calle Vereda de los Sastres 1;28863;Cobeña;91 620 86 97;Privada;40,573724;-3,503107;99;45;6
+Residencia de 3ª edad ADEMAR;Calle Hortensias 2;28770;Colmenar Viejo;91 848 62 02;Privada;40,651301;-3,782312;23;17;6
+Residencia Los Balcones;Calle Trigo 14;28914;Leganés;91 498 75 07;Privada;40,327571;-3,780226;128;51;6
+Residencia El Pardo de Aravaca;Calle Darío Aparicio 33 - 35;28023;Madrid;91 740 04 90;Privada;40,470473;-3,769039;88;20;6
+Residencia Fundación Santa Lucía - Moratalaz;Calle Luis de Hoyos Sainz 196;28030;Madrid;91 773 04 83;Privada sin fin de lucro;40,400399;-3,629447;70;28;6
+Sanitas Residencial Puerta de Hierro;Calle Alfonso Fernández Clausells 2;28035;Madrid;91 398 00 17;Privada;40,461209;-3,724388;45;14;6
+Ballesol Latina;Calle Casuarina 4;28044;Madrid;91 710 81 90;Privada;40,381249;-3,764778;180;130;6
+Residencia Nuestra Señora de Valverde;Calle Convenio 7;28053;Madrid;91 477 71 83;Privada;40,39326;-3,672448;44;13;6
+Residencia Ponderosa Real;Avenida Maderuelos 5;28410;Manzanares el Real;91 857 38 38;Privada;40,724243;-3,939454;91;12;6
+Residencia geriátrica lunion Parla;Calle Felipe II 23;28982;Parla;91 664 42 09;Privada;40,230513;-3,762052;180;144;6
+Residencia Castilla;Calle Sierra 16 - Urb. La Sierra;28979;Serranillos del Valle;91 817 55 21;Privada;40,21026;-3,871749;26;19;6
+Residencia Nuestra Señora de la Antigua;Calle Nervión 6;28670;Villaviciosa de Odón;91 616 70 18;Privada;40,374307;-3,924425;49;16;6
+Residencia de la 3ª edad Benja;Avenida de Toledo 23;28607;Álamo (El);91 810 41 50;Privada;40,230334;-3,985376;188;27;5
+Alcalá Centro Geriátrico;Calle Gustavo Adolfo Bécquer 27;28806;Alcalá de Henares;91 884 20 27;Privada;40,511397;-3,374137;140;38;5
+Residencia Virgen del Pilar;Calle Mártires 14;28660;Boadilla del Monte;91 633 03 75;Privada;40,409206;-3,878629;233;12;5
+Asociación Amigos de la 3ª Edad El Concejo;Calle Mariano García 1;28720;Bustarviejo;91 848 20 55;Privada;40,858612;-3,709377;51;21;5
+Residencia de 3ª edad Pablo Neruda;Calle Santa Clara 1;28350;Ciempozuelos;91 801 51 81;Privada;40,1613;-3,62137;103;15;5
+Sol Salud;Urbanización La Cerca blq. 30;28400;Collado Villalba;91 850 22 14;Privada;40,6443;-3,98691;65;13;5
+Vitalia Leganés;Calle María Moliner 7;28919;Leganés;91 686 07 00;Privada;40,343814;-3,751172;266;150;5
+Residencia geriátrica María Inmaculada;Calle Cartagena 120;28002;Madrid;91 519 41 70 / 627 92 35 07;Privada;40,440807;-3,674541;24;13;5
+Asilo de ancianos - Hermanitas de los Pobres;Calle Almagro 7 (entrada por C/ Zurbarán, 4);28010;Madrid;91 319 20 96;Privada sin fin de lucro;40,429563;-3,693756;94;11;5
+Residencia sacerdotal San Pedro;Calle San Bernardo 101;28015;Madrid;91 447 42 00;Privada sin fin de lucro;40,430991;-3,705335;95;26;5
+Nuestra Señora de Montserrat - Fundación benéfico social;Calle San Bernardo 79;28015;Madrid;91 447 12 50;Privada sin fin de lucro;40,427538;-3,706413;96;28;5
+Residencia geriátrica María Auxiliadora;Calle Eugenia de Montijo 79;28025;Madrid;91 465 18 23 / 91 465 64 22;Privada;40,376821;-3,749433;71;12;5
+Residencia Avenida San Luis;Avenida San Luis 58;28033;Madrid;91 382 20 92;Privada;40,472452;-3,653224;99;32;5
+Residencia Las Azaleas;Calle Bueso de Pineda 52;28043;Madrid;91 300 49 51;Privada;40,455438;-3,65273;67;15;5
+GERIATEL Aluche;Calle Ocaña 193;28047;Madrid;91 509 98 84;Privada;40,389068;-3,753566;55;38;5
+Residencia de ancianos María Leonor y Legado de los pobres Hernández Muriel;Calle María Leonor 3;28200;San Lorenzo de El Escorial;91 890 51 04;Privada;40,596304;-4,149929;74;41;5
+Residencia de personas mayores San Martín de Valdeiglesias;Calle San Martín 2;28680;San Martín de Valdeiglesias;91 861 04 00;Pública autonómica;40,363671;-4,402149;122;11;5
+Las Mimosas;Calle Retama 12;28979;Serranillos del Valle;91 813 81 93;Privada;40,210418;-3,869961;72;26;5
+Flor de Retama;Calle Retama 15;28979;Serranillos del Valle;91 817 58 01 / 606 53 41 10;Privada;40,209983;-3,870342;20;15;5
+Residencia Rosalba;Calle Tórtola 1;28609;Sevilla la Nueva;91 812 88 52;Privada;40,344126;-4,029598;210;35;5
+AMAVIR Alcalá de Henares;Calle Octavio Paz 13;28806;Alcalá de Henares;901 30 20 10;Privada;40,5007;-3,3716;180;14;4
+Los Llanos Vital;Calle Miguel de Cervantes 2;28430;Alpedrete;91 851 08 88;Privada;40,645494;-4,022564;93;59;4
+Residencia de mayores Navasalud;Calle Colada Charco de la Hoya 10 - D - La Navata;28420;Galapagar;91 858 41 81;Privada;40,599125;-3,987496;28;8;4
+Residencia Fuenteverde;Calle Acuario 3;28440;Guadarrama;91 849 30 22;Privada;40,653196;-4,04674;15;9;4
+Residencia municipal de San Miguel Arcángel;Calle Panera 1;28440;Guadarrama;91 854 77 22;Privada;40,672617;-4,088008;46;16;4
+Residencia Geriátrica 3ª Edad Las Rosas Madrid;Calle Butrón 14;28022;Madrid;91 313 09 54 / 651 93 76 27;Privada;40,425011;-3,609392;42;12;4
+Residencia para la 3ª edad Virgen Llana;Calle Santa Tecla 24;28022;Madrid;91 320 13 70;Privada;40,442886;-3,614434;11;1;4
+Residencia de mayores Jardín de Aravaca;Calle Ana Teresa 11;28023;Madrid;91 357 99 99;Privada;40,460693;-3,782069;21;11;4
+Casablanca El Plantío;Avenida Victoria 74;28023;Madrid;91 372 81 02;Privada;40,47134;-3,826464;59;18;4
+Residencia Adolfo Suárez;Calle de la Rávena 18;28032;Madrid;91 322 09 00;Pública autonómica;40,418859;-3,614082;280;158;4
+Residencia Jazmín;Calle Jazmín 48;28033;Madrid;91 383 65 20;Pública local;40,478607;-3,667022;59;11;4
+Residencia Nuestra Señora del Perpetuo Socorro;Calle Áncora 42;28045;Madrid;91 506 05 60 / 91 539 19 84;Privada sin fin de lucro;40,402737;-3,689147;93;47;4
+Residencia Coímbra Park;Calle Arizónicas 14;28935;Móstoles;91 645 56 00 / 91 645 59 99;Privada;40,31457;-3,924784;34;11;4
+Residencia 3ª edad Prado del Rey;Calle Pío Milla Andrés 5;28223;Pozuelo de Alarcón;636 69 37 07;Privada;40,404647;-3,779446;27;17;4
+Hogar Virgen de la Esperanza;Calle Iglesia 5;28701;San Sebastián de los Reyes;91 651 55 11;Privada sin fin de lucro;40,54684;-3,626786;72;19;4
+Residencia Virgen del Socorro;Avenida Generalísimo 2;28610;Villamanta;91 813 67 38;Privada;40,298695;-4,105787;98;30;4
+Pisos tutelados para personas mayores;Calle Cotos 2 - 4 - 6;28730;Buitrago del Lozoya;91 868 20 71;Pública autonómica;40,986954;-3,633659;50;7;3
+Residencia de ancianos San Juan Bautista;Calle Madrid 23;28380;Colmenar de Oreja;91 894 33 07 / 91 894 44 98;Privada sin fin de lucro;40,114281;-3,392982;99;57;3
+Residencia Santa Teresa;Calle Isabel la Católica 1;28770;Colmenar Viejo;91 845 33 98;Privada;40,65797;-3,765927;26;17;3
+Fundación Manzanares;Calle Mayor 13 - 15;28597;Fuentidueña de Tajo;91 872 84 86;Privada;40,118985;-3,159995;53;13;3
+Valdesalud;Calle Cíes 22 - La Navata;28420;Galapagar;91 858 03 02;Privada;40,596325;-3,989553;27;21;3
+Residencia Virgen del Valle;Calle Valle del Alberche 6;28440;Guadarrama;91 851 88 10;Privada;40,651315;-4,048455;26;6;3
+Residencia de 3ª edad SagradaFamilia;Calle Luis Larrainza 46 bis;28002;Madrid;91 413 41 15;Privada;40,450821;-3,6687;27;25;3
+Residencia San Vicente;Calle Modesto Lafuente 11;28010;Madrid;91 445 75 14;Privada sin fin de lucro;40,438253;-3,696379;50;43;3
+Residencia de 3ª edad Retiro de Aravaca;Calle Ana Teresa 1;28023;Madrid;91 307 06 08;Privada;40,460711;-3,780451;47;24;3
+Residencia Los Enebros;Avenida Victoria 120;28023;Madrid;91 372 97 74;Privada;40,473572;-3,832842;38;13;3
+Residencia para personas mayores Nuestra Señora del Camino;Calle Collado de Tirobarra 6;28034;Madrid;91 736 47 94;Privada sin fin de lucro;40,494977;-3,715905;71;7;3
+Residencia Abedul II;Calle Agustín Calvo 15;28043;Madrid;91 759 84 56;Privada;40,464056;-3,650933;29;12;3
+Residencia municipal Virgen de la Concepción;Plaza Buenavista 29;28600;Navalcarnero;91 811 48 82;Pública local;40,291808;-4,01564;60;13;3
+Residencia Montesalud;Calle Azor 2 - Urb. Molino de la Hoz;28232;Rozas de Madrid (Las);91 636 99 00;Privada;40,535237;-3,942391;150;18;3
+Orpea Punta Galea;Calle Playa de Sardinero 19 bis - Urb. Punta Galea;28290;Rozas de Madrid (Las);91 636 92 20;Privada;40,540094;-3,900667;160;74;3
+Residencia San Marcos;Calle Rodrigo de Triana 23;28330;San Martín de la Vega;91 808 72 58;Privada;40,209571;-3,5776;80;6;3
+Casablanca Valdesur;Carretera de Andalucía Km. 25;28343;Valdemoro;91 895 04 00;Privada;40,1855;-3,67449;178;8;3
+Orpea Villanueva de la Cañada;Camino de Encinarejo 3;28691;Villanueva de la Cañada;91 811 79 80;Privada;40,452299;-4,015236;328;29;3
+Residencia Santa Fe;Avenida de la Estación 71;28293;Zarzalejo;91 899 24 47;Privada;40,53933;-4,163902;81;37;3
+Sanitas Residencial Henares;Calle Miguel Delibes 2;28806;Alcalá de Henares;91 830 35 11;Privada;40,49439;-3,371467;136;43;2
+Residencia de 3ª edad El Pilar;Paseo de Ronda 8;28690;Brunete;91 815 82 25;Privada;40,405553;-3,996236;15;9;2
+Residencia de Ancianos Palacios;Paseo de la Estación 16;28350;Ciempozuelos;91 893 07 12 / 91 893 07 62;Privada;40,159194;-3,614336;85;18;2
+Hotel Residencia Virgen del Consuelo;Avenida de los Toreros 4;28350;Ciempozuelos;91 893 31 40 / 91 893 31 29;Privada;40,156299;-3,630613;73;5;2
+Residencia asistida de personas mayores - Complejo Asistencial Benito Menni;Calle Jardines 1;28350;Ciempozuelos;91 893 01 50;Privada sin fin de lucro;40,156188;-3,61933;208;9;2
+Residencia Nuestra Señora del Pilar;Calle Sotogrande de Abajo 11;28450;Collado Mediano;91 840 68 33;Privada sin fin de lucro;40,666798;-4,045304;31;22;2
+Residencia de 3ª edad Primar;Avenida de Aragón 21;28140;Fuente el Saz de Jarama;91 620 19 00 / 91 620 18 92;Privada;40,636952;-3,507427;40;8;2
+Residencia de 3ª edad Antares;Calle Puente del Retamar 4;28260;Galapagar;91 859 70 51;Privada;40,565285;-4,002372;25;13;2
+Residencia de personas mayores de Getafe;Avenida Juan Carlos I 4 - Sector III;28905;Getafe;91 682 42 47;Pública autonómica;40,297303;-3,741689;64;33;2
+Residencia Los Nogales Cerro de los Ángeles;Calle Groenlandia 6;28909;Getafe;91 684 93 10;Privada;40,325152;-3,661991;99;25;2
+Residencia de personas mayores municipal de Griñón;Barrio Ermita 1;28971;Griñón;91 814 09 52 / 91 814 06 71;Pública local;40,219166;-3,853;78;18;2
+Residencia 3ª edad Mañón;Calle Antonio Machado 22;28440;Guadarrama;91 854 76 30;Privada;40,67932;-4,09965;15;9;2
+Los Nogales La Paloma;Calle Toledo 96;28005;Madrid;91 365 03 03;Privada;40,40819;-3,710967;99;10;2
+Residencia de personas mayores Colegio de la Paz;Calle Doctor Esquerdo 44;28007;Madrid;91 409 09 43 / 91 409 16 11 / 91 409 11 64;Pública autonómica;40,420467;-3,669259;80;8;2
+Centro residencial de mayores Ave María;Avenida del Áster 24;28016;Madrid;91 413 45 88;Privada;40,456914;-3,665656;38;5;2
+Apartamentos Tutelados para personas mayores María Orúe;Calle María Orúe 1 A;28021;Madrid;91 710 04 84;Pública autonómica;40,353035;-3,686513;28;18;2
+Casablanca Madrid;Avenida Victoria 36;28023;Madrid;91 307 71 77;Privada;40,468989;-3,820706;71;61;2
+DomusVi Arturo Soria;Calle Duquesa de Castrejón 18 - 20;28033;Madrid;91 300 13 90;Privada;40,463405;-3,660257;145;19;2
+Sanitas Residencial Mirasierra;Calle Nuria 40;28034;Madrid;91 735 32 70;Privada;40,493033;-3,707258;125;74;2
+Residencia Santa Filipina;Avenida de Burgos 4;28036;Madrid;91 767 22 76;Privada;40,469916;-3,676194;32;29;2
+Residencia Casa San Luis Gonzaga - Los Almendros;Carretera de Colmenar Viejo Km. 14.4;28049;Madrid;91 734 74 77;Privada sin fin de lucro;40,528;-3,6935;45;8;2
+Residencia Nuestra Señora de la Montaña II;Urbanización Las Colinas 8;28950;Moraleja de Enmedio;91 600 50 30;Privada;40,268986;-3,878887;23;9;2
+Residencia Fuente de Salud;Calle de España 3;28411;Moralzarzal;91 857 61 57 / 91 857 81 21;Privada;40,6738;-3,9717;37;31;2
+Residencia de personas mayores de Parla;Calle Zuloaga 2;28982;Parla;91 698 51 61;Pública autonómica;40,241405;-3,760096;64;9;2
+Residencia Valderey;Calle Ciudad Real 18;28223;Pozuelo de Alarcón;91 351 32 85;Privada;40,419423;-3,841079;15;4;2
+Residencia Santa Helena;Carretera de Ajalvir (M-113) 7;28815;Ribatejada;91 879 19 67;Privada;40,668213;-3,390293;33;17;2
+Residencia Años Dorados II;Paseo de Europa 52;28701;San Sebastián de los Reyes;91 653 53 53;Privada;40,568758;-3,60247;50;10;2
+Residencia Santa Bárbara del Hórreo;Calle Jacinto Benavente 15;28609;Sevilla la Nueva;91 812 92 97;Privada;40,344545;-4,028279;33;10;2
+Residencia La Solana;Plaza de la Iglesia 4;28550;Tielmes;91 874 60 50;Privada;40,246099;-3,316626;142;102;2
+Residencia Las Celindas;Avenida de la Constitución 128;28850;Torrejón de Ardoz;91 656 52 73;Privada;40,45959;-3,46226;76;9;2
+Residencia El Castillo, S. L.;Avenida del Valle 7 - Urb. El Castillo;28670;Villaviciosa de Odón;91 616 34 61;Privada;40,354291;-3,889337;73;28;2
+Residencia de 3ª edad de Campo Real;Avenida de Arganda 1;28510;Campo Real;91 874 10 09;Pública local;40,338527;-3,376916;66;43;1
+Residencia para Mayores Casaquinta;Avenida San Juan de Dios 3;28350;Ciempozuelos;91 893 30 00;Privada sin fin de lucro;40,160069;-3,61456;320;74;1
+Orpea Estremera;Avenida Papa Juan Pablo II s/n;28595;Estremera;91 875 57 47 / 91 876 14 64;Privada;40,188153;-3,108639;82;4;1
+Residencia de 3ª edad San Esteban, S. L.;Calle Argentina 24 - bajos;28944;Fuenlabrada;91 600 01 55;Privada;40,284526;-3,786246;15;2;1
+Residencia Ítaca;Calle Álvaro Cunqueiro 18;28260;Galapagar;91 851 26 99 / 91 851 88 58;Privada;40,614605;-4,008678;21;3;1
+Residencia El Amanecer;Calle Rosales 4 - Colonia La Canaleja;28260;Galapagar;91 858 12 01;Privada;40,569854;-4,002147;26;6;1
+Orpea Madrid Loreto;Avenida Reina Victoria 60 - 62;28003;Madrid;91 535 77 16;Privada;40,446434;-3,713216;144;26;1
+Fundación de Doña Fausta Elorz;Calle Conde de Peñalver 53;28006;Madrid;91 309 96 50;Privada sin fin de lucro;40,431746;-3,675205;120;9;1
+Apartamentos municipales para mayores Retiro;Calle José Martínez de Velasco 22;28007;Madrid;91 557 13 19;Pública local;40,414576;-3,667489;32;14;1
+Residencia Maestro Lassalle;Calle Maestro Lassalle 6;28016;Madrid;91 359 17 45;Privada;40,462471;-3,673193;21;9;1
+AMAVIR Ciudad Lineal;Calle Gabriel Montero 3;28017;Madrid;91 327 61 99;Privada;40,425293;-3,629239;180;97;1
+Residencia Villaverde Alzheimer;Carretera de Villaverde a Vallecas 38;28021;Madrid;91 723 09 61;Pública autonómica;40,356334;-3,686186;52;39;1
+Residencia de ancianos Nuestra Señora del Pilar;Calle de la Esfinge 34;28022;Madrid;91 741 17 62;Privada sin fin de lucro;40,444197;-3,609889;55;3;1
+Residencia de 3ª edad Las Mercedes;Calle Ana Teresa 7;28023;Madrid;91 307 01 76;Privada;40,460646;-3,780955;20;13;1
+Orpea Madrid Aravaca;Avenida del Talgo 53;28023;Madrid;91 387 87 90;Privada;40,446777;-3,78057;240;3;1
+Residencia Juan XXIII;Calle Proción 10;28023;Madrid;91 372 96 07;Privada;40,467425;-3,800898;40;5;1
+Mi Casa - Hermanitas de los Pobres;Calle Doctor Esquerdo 49;28028;Madrid;91 574 29 88;Privada sin fin de lucro;40,422822;-3,668711;93;3;1
+Residencia municipal Margarita Retuerto;Calle Francisco Altimiras 2;28028;Madrid;91 724 14 48;Pública local;40,43414;-3,663665;90;4;1
+Residencia de 3ª edad Vuestra Casa II;Calle Martínez Izquierdo 37;28028;Madrid;91 725 79 04;Privada;40,434197;-3,668279;27;15;1
+Residencia Castellar;Calle Sierra Vieja 73;28031;Madrid;91 222 01 50 / 91 222 01 41 / 91 380 87 82;Privada;40,379216;-3,622671;34;24;1
+Residencia de 3ª edad Atenea - Mirasierra;Avenida Cardenal Herrera Oria 162;28034;Madrid;91 731 05 70;Privada;40,487332;-3,705937;44;2;1
+Centro geriátrico Ecoplar Mirasierra;Calle Ventisquero de la Condesa 46;28034;Madrid;91 387 60 50;Privada;40,494739;-3,717871;75;68;1
+Ballesol Mirasierra;Calle Collado de Cerro Malejo 5 - 7;28035;Madrid;91 738 90 22;Privada;40,488923;-3,715938;232;31;1
+Sanatorio geriátrico Los Álamos;Calle Pirineos 37;28040;Madrid;91 459 11 50 / 91 459 86 55;Privada;40,454937;-3,717732;34;7;1
+Residencia Orcasur;Calle Salobreña 2;28041;Madrid;91 369 92 34;Pública autonómica;40,366186;-3,700592;64;4;1
+Residencia de 3ª edad La Santina Dos, S. L.;Calle Isla de Cuba 2;28042;Madrid;91 320 03 54;Privada;40,44999;-3,610482;50;16;1
+Caser Residencial Arturo Soria;Calle Puerto de Santa María 15;28043;Madrid;91 716 00 36;Privada;40,454244;-3,651427;140;10;1
+Residencia Miraflores II;Calle Ulises 44;28043;Madrid;91 300 44 42;Privada;40,457943;-3,652128;72;10;1
+Residencia Doctor González Bueno;Carretera de Colmenar Viejo Km. 13.5;28049;Madrid;91 734 63 00 / 91 734 77 64 / 91 734 34 54;Pública autonómica;40,525711;-3,688041;617;15;1
+Residencia de 3ª edad - Asociación Rosas del Camino;Calle San Roque 77;28600;Navalcarnero;91 811 10 01 / 91 811 10 59;Privada;40,283836;-4,011903;30;26;1
+Residencia Bellaescusa;Calle Miguel Hernández 1;28570;Orusco de Tajuña;91 876 12 02;Privada;40,286949;-3,206878;152;19;1
+Gerontos Pedrezuela;Calle Eras 96;28723;Pedrezuela;91 843 37 80;Privada;40,743291;-3,606735;44;23;1
+Residencia Bellas Vistas;Avenida Marcial Llorente 37;28696;Pelayos de la Presa;91 864 42 38 / 91 864 41 51;Privada;40,358592;-4,333794;120;106;1
+Residencia Alarcón;Calle Caridad 34;28224;Pozuelo de Alarcón;91 351 09 18 / 91 715 10 91;Privada;40,443765;-3,798652;30;12;1
+Residencia La Suiza Santa Rita;Calle Berna 4 - Urb. La Suiza Española;28294;Robledo de Chavela;91 899 58 37 / 91 899 80 66;Privada;40,511155;-4,243246;78;61;1
+Residencia San Sebastián de los Reyes;Calle Marie Curie s/n;28703;San Sebastián de los Reyes;91 623 70 12;Pública autonómica;40,541786;-3,623643;140;26;1
+Residencia Nuestra Señora del Rosario;Calle Soledad 39;28850;Torrejón de Ardoz;91 675 28 59;Privada;40,458533;-3,476399;56;2;1
+Acacias Centro Geriátrico;Calle Jesusa Lara 36;28250;Torrelodones;91 859 45 30;Privada;40,579396;-3,957384;20;17;1
+DomusVi Tres Cantos;Ronda de Poniente 1;28760;Tres Cantos;91 806 50 51;Privada;40,601901;-3,714957;99;53;1
+Residencia La Paz;Camino de Aldea del Fresno 1;28610;Villamanta;91 813 60 05;Privada;40,297835;-4,1199;54;23;1
+AMAVIR Villanueva;Avenida Madrid 3;28691;Villanueva de la Cañada;91 815 57 01;Privada;40,447962;-3,992299;180;5;1
+Centro sociosanitario Medinaceli;Avenida de los Estudiantes 3;28229;Villanueva del Pardillo;91 815 44 70;Privada;40,481036;-3,968883;122;3;1
+Residencia Santa Gema Galgani;Calle Pensamientos 20;28607;Álamo (El);91 812 09 40;Privada;40,224957;-3,996695;14;1;0
+Centro Residencial Los Villares;Avenida de los Villares 1;28500;Arganda del Rey;91 870 19 86;Privada;40,312053;-3,448587;25;1;0
+Residencia El Mural;Barrio Alto 35;28390;Belmonte de Tajo;91 874 74 11;Privada;40,133869;-3,33755;49;9;0
+Residencia Palacio de Carabaña;Calle Madrid 3;28560;Carabaña;91 872 30 97;Privada;40,256378;-3,236384;49;15;0
+Residencia para Mayores del Carmen, S. L.;Calle Salvador Canals 5;28470;Cercedilla;91 852 33 42;Privada;40,730493;-4,067206;20;4;0
+Residencia La Pinarilla;Calle Ventorro 4;28694;Chapinería;91 865 06 88;Privada;40,382606;-4,208618;76;1;0
+Residencia Las Vegas;Calle Cabañeros 110;28350;Ciempozuelos;91 809 14 75;Pública autonómica;40,153865;-3,634648;78;7;0
+Sanitas Residencial Almenara;Calle Colmenar 2;28213;Colmenar del Arroyo;91 865 10 00;Privada;40,425212;-4,199442;106;7;0
+Residencia de 3ª edad Ruiz y Latorre;Calle de las Casas 22;28978;Cubas de la Sagra;91 814 28 95;Privada;40,198496;-3,84462;28;15;0
+Residencia de personas mayores Santa María del Silencio - Cáritas;Calle Sagrado Corazón 25;28978;Cubas de la Sagra;91 814 23 00;Privada sin fin de lucro;40,190692;-3,840697;130;4;0
+Residencia municipal de mayores de Fuenlabrada;Calle Villa Elena 21;28942;Fuenlabrada;91 607 12 43;Pública local;40,288523;-3,812639;63;0;0
+Caim Los Olivos;Avenida de Aragón 15;28140;Fuente el Saz de Jarama;91 620 12 60;Privada;40,636213;-3,508316;19;3;0
+Casablanca Griñón;Avenida Albéniz 8;28971;Griñón;91 814 15 11;Privada;40,2222;-3,85161;60;1;0
+Residencia municipal Guadalix de la Sierra;Calle Palenque 8;28794;Guadalix de la Sierra;91 847 10 09;Pública local;40,786133;-3,693666;58;4;0
+Centro de mayores La Tejera;Calle Géminis 15 - Urb. Las Cabezuelas;28440;Guadarrama;91 849 37 57;Privada;40,653354;-4,048267;49;7;0
+Residencia geriátrica Valdepelayos 67;Calle Diego Martínez Barrio 65;28914;Leganés;91 693 00 58;Privada;40,324444;-3,779769;18;5;0
+Residencia Hermanitas de los Ancianos Desamparados;Calle Lagasca 17;28001;Madrid;91 435 10 97 / 91 431 62 01;Privada sin fin de lucro;40,42309;-3,685707;78;0;0
+Casa de Santa María;Avenida del Mediterráneo 48 - 2ª planta y 1º A y B;28007;Madrid;91 551 60 31 / 91 551 30 18;Privada;40,406326;-3,669085;24;20;0
+Sanitas Residencial Jardines de Sabatini;Calle Arriaza 16;28008;Madrid;900 81 82 65;Privada;40,421738;-3,716249;75;13;0
+Residencia de ancianos Santa Teresa y San José;Plaza de España 14;28008;Madrid;91 541 29 96;Privada;40,423673;-3,713186;24;7;0
+Sanitas Residencial Ferraz;Calle Ferraz 92;28008;Madrid;91 544 22 48;Privada;40,430492;-3,721402;73;19;0
+Ballesol Francisco de Rojas;Calle Francisco de Rojas 4;28010;Madrid;91 446 42 05;Privada;40,428637;-3,699442;123;15;0
+Ballesol Olavide;Calle Juan de Austria 9;28010;Madrid;91 447 52 56;Privada;40,432481;-3,699488;179;1;0
+Residencia para mayores Madrid Sur;Calle Javier de Miguel 42;28018;Madrid;91 380 78 70;Pública autonómica;40,387566;-3,660302;140;2;0
+Residencia Ardales;Calle Ardales 4;28023;Madrid;91 357 21 41;Privada;40,460262;-3,782895;17;9;0
+Sagrada Familia;Calle Villaviciosa 24;28024;Madrid;91 518 26 40;Privada;40,397662;-3,769367;67;7;0
+Residencia de 3ª edad Vuestra Casa I;Calle Roma 16 - 18;28028;Madrid;91 355 24 71;Privada;40,430989;-3,666191;29;3;0
+Clínica Geriátrica Imbea - Morejón, S. A.;Calle Menéndez Pidal 25;28036;Madrid;91 359 56 00;Privada;40,463096;-3,681242;30;1;0
+Residencia Justo Dorado;Calle Pedro Justo Dorado 5;28040;Madrid;91 535 86 20;Privada;40,448566;-3,712219;54;0;0
+Residencia Fundación Sagrada Familia;Calle Ulises 60;28043;Madrid;91 388 41 19;Privada;40,458315;-3,651033;35;9;0
+Residencia Virgen de la Paloma;Calle Árbol del Cielo 38;28044;Madrid;91 706 31 33;Privada;40,379659;-3,763995;11;2;0
+Residencia de 3ª edad Santa María del Sagrario;Plaza de la Emperatriz 12;28044;Madrid;91 508 69 41;Privada;40,373606;-3,751338;41;0;0
+Residencia de 3ª edad Comunidad Marías;Avenida Nuestra Señora de Fátima 100 - 3º;28047;Madrid;91 461 77 06;Privada sin fin de lucro;40,379501;-3,748957;10;8;0
+Casa de ancianos Hermanitas de los Pobres;Calle Virgen del Espino 1;28460;Molinos (Los);91 855 16 80;Privada sin fin de lucro;40,707672;-4,083757;36;12;0
+Residencia Nuestra Señora del Sagrario;Avenida de Arroyomolinos 3;28950;Moraleja de Enmedio;91 609 40 09 / 91 609 40 12;Privada;40,259947;-3,864408;80;39;0
+Residencia de 3ª edad Alameda Coímbra;Calle Eucalipto 10;28935;Móstoles;91 647 85 33;Privada;40,310183;-3,924941;28;0;0
+Residencia Las Camelias;Avenida Olímpica 36 - El Soto;28935;Móstoles;91 613 23 81;Privada;40,329208;-3,882831;231;0;0
+Residencia para personas mayores de Móstoles;Calle Juan XXIII 6;28938;Móstoles;91 664 76 67;Pública local;40,320291;-3,865316;35;2;0
+Residencia de Navalcarnero;Avenida Víctimas del Terrorismo s/n;28600;Navalcarnero;91 811 15 11;Pública autonómica;40,294593;-3,996781;120;56;0
+Residencia de 3ª edad Ermita;Calle Orquídea 5;28981;Parla;91 699 93 99;Privada;40,234486;-3,773634;30;19;0
+Residencia San Miguel;Paseo de la Ermita 28;28723;Pedrezuela;91 843 48 65;Privada;40,743901;-3,599472;42;5;0
+Residencia Las Fuentes;Calle Fuente 44;28723;Pedrezuela;91 843 37 80;Privada;40,746364;-3,600592;95;6;0
+Centro de mayores El Chaflán;Calle Marcial Llorente 47;28696;Pelayos de la Presa;91 864 42 00;Privada;40,358763;-4,334775;28;15;0
+La Atalaya;Camino de Alcorcón 2;28223;Pozuelo de Alarcón;91 352 14 45;Privada sin fin de lucro;40,432934;-3,813851;42;3;0
+Residencia La Salud;Calle Manuel Roses 13;28223;Pozuelo de Alarcón;91 711 00 25 / 91 711 85 16;Privada;40,406988;-3,779266;44;1;0
+Residencia de 3ª edad Malvarrosa;Calle Pío Milla Andrés 33;28223;Pozuelo de Alarcón;91 518 14 64 / 91 502 27 73;Privada;40,402401;-3,77835;17;1;0
+AMAVIR Pozuelo;Paseo de las Naciones 1;28224;Pozuelo de Alarcón;91 799 13 92 / 902 10 09 99;Privada;40,438527;-3,805132;180;6;0
+Residencia municipal de Robledillo de la Jara;Calle Fuente 5;28194;Robledillo de la Jara;91 868 72 38;Pública local;40,953931;-3,525083;13;5;0
+Vitalia Las Rozas;Calle Chile 16;28290;Rozas de Madrid (Las);91 630 47 00;Privada;40,542725;-3,9043;246;0;0
+Orpea San Fernando;Calle Vergara 13;28830;San Fernando de Henares;91 485 02 82;Pública local;40,420639;-3,529463;140;0;0
+Centro Residencial para Mayores Años Dorados;Calle Los Cerezos 4;28703;San Sebastián de los Reyes;91 654 44 07;Privada;40,545641;-3,619411;48;1;0
+Residencia Soto Fresnos;Avenida de España 11;28791;Soto del Real;91 848 05 10;Privada;40,753599;-3,790157;111;31;0
+Residencia de 3ª edad Los Pinos;Avenida Calderón de la Barca 1 - Urb. Silillos;28150;Valdetorres de Jarama;91 841 57 02;Privada;40,682137;-3,524492;21;3;0
+Residencia de 3ª edad San Miguel;Calle Reyes Magos 27;28810;Villalbilla;91 885 02 81;Privada;40,433291;-3,305171;34;31;0
+Villa Victoria Residencia;Paseo de la Estación 6;28610;Villamanta;91 813 65 32;Privada;40,297545;-4,111879;19;0;0
+Residencia San Carlos del Bosque;Calle Jalón 20;28670;Villaviciosa de Odón;91 616 83 80 / 91 616 85 77;Privada;40,377247;-3,941107;30;20;0
